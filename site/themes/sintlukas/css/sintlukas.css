@@ -36,7 +36,10 @@ section {
 
 }
 
-
+footer {
+  position: relative;
+  z-index: 400;
+}
 
 
 
