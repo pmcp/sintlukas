@@ -5,13 +5,13 @@ header {
 }
 nav {
   position: fixed;
-background-color: white;
-width: 100%;
+  background-color: white;
+  width: 100%;
   z-index: 300;
 }
 .grid__container {
   position: fixed;
-  margin: 50px;;
+  margin: 50px;
   z-index: 100;
   background:white url(data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAA3SURBVHgB7dexEQAgDAOxmP13hjCFG/2de7XO3aZUkjlTDgAAAAAAAAAAAAAAAACgDsiuds9/D/hwBT1Gv1WUAAAAAElFTkSuQmCC) repeat top left;
   height: 90vh;
@@ -23,13 +23,54 @@ width: 100%;
 }
 
 
-main {
+section {
   position: relative;
   z-index: 200
 }
 
 .grid__image {
 
-  grid-area: 4 / 3 / 6 / 5;
+  grid-area: 4 / 3 / 10 / 7;
 
+}
+
+
+
+
+
+/* Rotation */
+
+
+#page-wrap { width: 300px; margin: 80px auto; }
+
+.adults__container {
+  display: block;
+  position: relative;
+  margin: 40px 0;
+}
+
+.adults__container h3 {
+  
+  
+  text-transform: uppercase;
+  background: transparent;
+  color: black;
+}
+
+/* Class name via Modernizr */
+.csstransforms {
+  padding-left: 10px;
+}
+.csstransforms {
+  /* Abs positioning makes it not take up vert space */
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  /* Border is the new background */
+  background: transparent;
+
+  /* Rotate from top left corner (not default) */
+  transform-origin: 0 0;
+  transform: rotate(90deg);
 }
