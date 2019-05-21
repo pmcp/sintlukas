@@ -22,7 +22,9 @@ nav {
   grid-template-rows: repeat(200, 32px);
 }
 
-
+.info {
+  background-color: white;
+}
 section {
   position: relative;
   z-index: 200
