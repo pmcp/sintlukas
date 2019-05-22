@@ -1,0 +1,147 @@
+sections:
+
+  server:
+    display: Dev Server
+    fields:
+      proxy:
+        type: text
+        display: Proxy
+        placeholder: 'e.g. http(s)://domain_name.test'
+        instructions: The php server domain where Statamic is running
+        validate: required
+      https:
+        type: toggle
+        display: HTTPS
+        instructions: Toggle HTTPS on server with HTTP2
+        default: false
+      ssl_certs:
+        type: toggle
+        display: SSL certificates
+        instructions: Toggle SSL certificates to prevent browser security message
+        default: false
+        show_when:
+          https: true
+
+  webbrowser:
+    display: Web Browser
+    fields:
+      open_website:
+        type: toggle
+        display: Open website
+        instructions: Open website on web browser after initialization
+        default: true
+      dev_browser:
+        type: select
+        display: Web browser
+        instructions: The web browser to use
+        default: os_default
+        options:
+            os_default: Default
+            'google chrome': Google Chrome
+            safari: Safari
+            firefox: Firefox
+            opera: Opera
+            ie: Internet Explorer
+      console_display:
+        type: checkboxes
+        display: Console
+        instructions: How coding errors, linting errors and webpack runtime errors must be display in the web browser
+        options:
+          error: display errors
+          warning: display warnings
+      overlay_display:
+        type: checkboxes
+        display: Overlay
+        instructions: How coding errors, linting errors and webpack runtime errors must be display in the web browser
+        options:
+          error: display errors
+          warning: display warnings
+
+  tools:
+    display: Tools
+    fields:
+      open_browsersyncui:
+        type: toggle
+        display: BrowserSync UI
+        instructions: Open BrowserSync UI on default web browser after initialization
+        default: true
+      open_bundleanalyzer:
+        type: toggle
+        display: BundleAnalyzer
+        instructions: Open BundleAnalyzer on default web browser after initialization
+        default: true
+
+  notifications:
+    display: Notifications
+    fields:
+      os_notify:
+        type: toggle
+        display: OS Notification
+        instructions: Toggle OS notification
+        default: true
+      os_notify_sound:
+        type: toggle
+        display: OS Notification sound
+        instructions: Toggle OS notification sound
+        default: true
+      browsersync_notify:
+        type: toggle
+        display: BrowserSync notification
+        instructions: Toggle BrowserSync status popup
+        default: true
+
+  files:
+    display: Files
+    fields:
+      context_folder:
+        type: text
+        display: Context folder
+        placeholder: 'source folder name (e.g. src)'
+        instructions: 'The directory that contains all your assets sources. Leave this empty if you want to use the root of your theme.'
+      output_folder:
+        type: text
+        display: Output folder
+        placeholder: 'output folder name (e.g. dist)'
+        instructions: 'Th
+        is where your production assets wil be output. By default ouptut are save to a dist folder in your theme root.'
+        default: dist
+      dev_sourcemaps:
+        type: select
+        display: Development source maps
+        instructions: Refer to webpack documentation to choose your settings https://webpack.js.org/configuration/devtool/
+        default: cheap-module-eval-source-map
+        options:
+          (none): (none)
+          eval: eval
+          eval-source-map: eval-source-map
+          cheap-eval-source-map: cheap-eval-source-map
+          cheap-module-eval-source-map: cheap-module-eval-source-map
+      prod_sourcemaps:
+        type: select
+        display: Production source maps
+        instructions: Refer to webpack documentation to choose your settings https://webpack.js.org/configuration/devtool/
+        default: (none)
+        options:
+          (none): (none)
+          source-map: source-map
+          hidden-source-map: hidden-source-map
+          nosources-source-map: nosources-source-map
+
+  splitting:
+    display: Code Splitting
+    fields:
+      runtime:
+        type: toggle
+        display: Runtime
+        instructions: Move webpack runtime code to a separate runtime.js file in order to support long-term caching. This will avoid hash recreation for other files when only application files are changed
+        default: true
+      vendor:
+        type: toggle
+        display: Vendor
+        instructions: Move node_modules vendor to a separate vendor.js file in order to support long-term caching. This will avoid hash recreation for other files when only application files are changed
+        default: true
+      common:
+        type: toggle
+        display: Common
+        instructions: Move modules used in multiple assets to a separate common.js file in order to support long-term caching. This will avoid hash recreation for other files when only application files are changed
+        default: true

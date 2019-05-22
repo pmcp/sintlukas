@@ -1,0 +1,17 @@
+sections:
+  main:
+    display: Main
+    fields:
+      atelier:
+        sets:
+          atelier:
+            display: atelier
+            fields:
+              atelier:
+                fieldset: gallery_normal
+                type: partial
+                display: Atelier
+        type: replicator
+        display: Atelier
+taxonomies: true
+title: home

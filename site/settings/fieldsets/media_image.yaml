@@ -1,0 +1,14 @@
+sections:
+  main:
+    display: Main
+    fields:
+      image--hero:
+        container: main
+        folder: img
+        restrict: false
+        type: assets
+        display: 'Afbeelding in gallerij'
+        max_files: 1
+taxonomies: true
+hide: true
+title: media_image-single

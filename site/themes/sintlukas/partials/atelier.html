@@ -1,0 +1,15 @@
+<section class=" flex flex-wrap w-80 ma5 center">
+  <div class="w-100 w-50-ns tr bg-white pa5">
+    <h1>{{ title }} </h1>
+    {{ text }}
+  </div>
+  <div class="w-100  w-50-ns masonry__container">
+    {{ assets:images }}
+      <img
+        src="{{ url }}"
+        alt="{{ alt }}"
+        class="db w-100 pa1"
+      />
+    {{ /assets:images }}
+  </div>
+</section>

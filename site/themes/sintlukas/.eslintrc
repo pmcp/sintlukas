@@ -1,0 +1,19 @@
+{
+  "root": true,
+  "extends": ["standard", "plugin:import/errors", "plugin:import/warnings", "plugin:promise/recommended"],
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "sourceType": "module",
+    "allowImportExportEverywhere": true,
+    "codeFrame": false
+  },
+  "env": {
+    "commonjs": true,
+    "browser": true,
+    "es6": true
+  },
+  "globals": {
+    "WEBPACKER_DEV": true,
+    "WEBPACKER_PROD": true
+  }
+}

@@ -1,0 +1,21 @@
+proxy: 'http://sintlukas.test'
+https: false
+open_website: true
+dev_browser: os_default
+console_display:
+  - error
+  - warning
+overlay_display:
+  - error
+  - warning
+open_browsersyncui: true
+open_bundleanalyzer: false
+os_notify: true
+os_notify_sound: true
+browsersync_notify: true
+output_folder: dist
+dev_sourcemaps: cheap-module-eval-source-map
+prod_sourcemaps: (none)
+runtime: true
+vendor: true
+common: true
