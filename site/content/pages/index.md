@@ -21,6 +21,13 @@ grid_items:
     row-start: 6
     row-end: 4
     column-end: 4
+  -
+    type: grid_item
+    image: /assets/giphy-1558554306.gif
+    column-start: 30
+    row-start: 6
+    row-end: 15
+    column-end: 15
 atelier:
   -
     type: atelier
