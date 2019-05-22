@@ -2,6 +2,17 @@ sections:
   main:
     display: Main
     fields:
+      grid_items:
+        sets:
+          grid_item:
+            display: 'grid item'
+            fields:
+              item:
+                fieldset: grid__item
+                type: partial
+                display: item
+        type: replicator
+        display: 'Grid items'
       atelier:
         sets:
           atelier:
@@ -14,4 +25,4 @@ sections:
         type: replicator
         display: Atelier
 taxonomies: true
-title: home
+title: Home

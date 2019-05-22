@@ -14,8 +14,8 @@ nav {
   position: fixed;
   z-index: 100;
   display: grid;
-  grid-template-rows: repeat(200, 32px);
-  grid-template-columns: repeat(200, 32px);
+  grid-template-rows: repeat(50, 2%);
+  grid-template-columns: repeat(50, 2%);
   width: calc(100% - 100px);
   height: 90vh;
   margin: 50px;
@@ -23,7 +23,12 @@ nav {
     white
     url(data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAA3SURBVHgB7dexEQAgDAOxmP13hjCFG/2de7XO3aZUkjlTDgAAAAAAAAAAAAAAAACgDsiuds9/D/hwBT1Gv1WUAAAAAElFTkSuQmCC)
     repeat top left;
+    background-size: 2%;
 }
+
+
+
+
 
 .info {
   background-color: white;
@@ -32,10 +37,6 @@ nav {
 section {
   position: relative;
   z-index: 200;
-}
-
-.grid__image {
-  grid-area: 4 / 3 / 10 / 7;
 }
 
 footer {
@@ -82,5 +83,4 @@ footer {
   column-count: 3;
   column-gap: 3%;
   column-width: 30%;
-
 }

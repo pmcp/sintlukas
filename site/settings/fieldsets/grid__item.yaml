@@ -1,0 +1,17 @@
+sections:
+  main:
+    display: Main
+    fields:
+      image:
+        container: main
+        folder: /
+        restrict: false
+        type: assets
+        display: Afbeelding
+        max_files: 1
+      position:
+        fieldset: grid_position
+        type: partial
+        display: Positie
+taxonomies: true
+title: 'Grid Item'

@@ -1,4 +1,26 @@
 ---
+grid_items:
+  -
+    type: grid_item
+    image: /assets/sintlukas.png
+    column-start: 3
+    row-start: 12
+    row-end: 29
+    column-end: 9
+  -
+    type: grid_item
+    image: /assets/files_site20.png
+    column-start: 30
+    row-start: 30
+    row-end: 12
+    column-end: 12
+  -
+    type: grid_item
+    image: /assets/files_site9.png
+    column-start: 5
+    row-start: 6
+    row-end: 4
+    column-end: 4
 atelier:
   -
     type: atelier

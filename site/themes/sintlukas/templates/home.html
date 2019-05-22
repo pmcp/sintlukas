@@ -39,15 +39,10 @@
 </nav>
 
 <header>
-
-
   <div class="grid__container">
-    <div class="grid__image">
-      <img
-        src="{{ theme:img src="gridImages/files_site.png" }}"
-        alt="Logo"
-      >
-    </div>
+    {{ grid_items }}
+      {{ partial src="grid__item"}}
+    {{ /grid_items }}
   </div>
 </header>
 
