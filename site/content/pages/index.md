@@ -1,33 +1,21 @@
 ---
 grid_items:
   -
-    type: grid_item
-    image: /assets/sintlukas.png
-    column-start: 3
-    row-start: 12
-    row-end: 29
-    column-end: 9
-  -
-    type: grid_item
-    image: /assets/files_site20.png
-    column-start: 30
-    row-start: 30
-    row-end: 12
+    type: grid_image
+    column-start: 28
+    row-start: 11
+    row-end: 8
     column-end: 12
+    image: /assets/giphy-1558530237.gif
   -
-    type: grid_item
-    image: /assets/files_site9.png
-    column-start: 5
-    row-start: 6
-    row-end: 4
-    column-end: 4
-  -
-    type: grid_item
-    image: /assets/giphy-1558554306.gif
-    column-start: 30
-    row-start: 6
-    row-end: 15
-    column-end: 15
+    type: grid_text
+    column-start: 8
+    row-start: 3
+    row-end: 6
+    column-end: 18
+    text: 'Sint Lukas'
+    color: '#f2cbd1'
+    fontsize: 8
 atelier:
   -
     type: atelier

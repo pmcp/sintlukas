@@ -1,10 +1,8 @@
 {
   "BUILD_INFORMATIONS": {
-    "date": "5/22/2019, 13:53:40",
+    "date": "5/23/2019, 10:49:05",
     "theme": "sintlukas - vundefined"
   },
   "runtime.js": "/site/themes/sintlukas/dist/js/runtime.aeb1fa961931be8b8f47.js",
-  "sintlukas.js": "/site/themes/sintlukas/dist/js/sintlukas.c3d0976a76bdfecf0d4c.js",
-  "vendor.js": "/site/themes/sintlukas/dist/js/vendor.b14000a5fc85bd07e0ff.js",
-  "vue.js": "/site/themes/sintlukas/dist/js/vue.83b15fd7555ff95ab735.js"
+  "sintlukas.js": "/site/themes/sintlukas/dist/js/sintlukas.233c708ce4174956e0c6.js"
 }

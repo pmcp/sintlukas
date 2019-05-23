@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{gMyY:function(e,w,a){"use strict";a.r(w);new(a("Kw5r").a)({el:"#app",data:{message:"Hello Vue!"}})}},[["gMyY",0,1]]]);

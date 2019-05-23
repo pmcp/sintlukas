@@ -1,0 +1,22 @@
+sections:
+  main:
+    display: Main
+    fields:
+      position:
+        fieldset: grid_position
+        type: partial
+        display: Positie
+      text:
+        type: text
+        display: Tekst
+      color:
+        format: hex
+        control: hue
+        show_opacity: false
+        type: colorpicker
+        display: Kleur
+      fontsize:
+        type: integer
+        display: 'Tekst grootte'
+taxonomies: true
+title: 'Grid Text'

@@ -6,17 +6,20 @@ sections:
         type: integer
         display: 'Start Kolom'
         width: 25
+        default: '1'
       row-start:
         type: integer
         display: 'Start Rij'
         width: 25
+        default: '1'
       row-end:
         type: integer
-        display: Lengte
+        display: Hoogte
         width: 25
       column-end:
         type: integer
         display: Breedte
         width: 25
+        default: '1'
 taxonomies: true
 title: 'Grid Position'

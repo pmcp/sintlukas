@@ -4,11 +4,18 @@ sections:
     fields:
       grid_items:
         sets:
-          grid_item:
-            display: 'grid item'
+          grid_image:
+            display: Afbeelding
             fields:
               item:
-                fieldset: grid__item
+                fieldset: grid_item_image
+                type: partial
+                display: item
+          grid_text:
+            display: Tekst
+            fields:
+              item:
+                fieldset: grid_item_text
                 type: partial
                 display: item
         type: replicator

@@ -1,0 +1,11 @@
+<div class="grid__container">
+  {{ grid_items }}
+    <div class="grid__item" style="grid-area:{{row-start}}/{{column-start}}/span {{row-end}}/span {{column-end}};">
+      {{ if type == "grid_image" }}
+        {{ partial src="grid__item--image"}}
+      {{ elseif type == "grid_text"}}  
+        {{ partial src="grid__item--text"}}
+      {{ /if }}
+    </div>
+  {{ /grid_items }}
+</div>

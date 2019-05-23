@@ -23,6 +23,7 @@ nav {
     white
     url(data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAA3SURBVHgB7dexEQAgDAOxmP13hjCFG/2de7XO3aZUkjlTDgAAAAAAAAAAAAAAAACgDsiuds9/D/hwBT1Gv1WUAAAAAElFTkSuQmCC)
     repeat top left;
+  background-size: 32px;
 }
 
 .info {
@@ -61,7 +62,6 @@ footer {
   background: transparent;
 }
 
-/* Class name via Modernizr */
 .csstransforms {
   position: absolute;
   top: 0;
