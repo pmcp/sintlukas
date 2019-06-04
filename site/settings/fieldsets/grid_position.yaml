@@ -16,6 +16,7 @@ sections:
         type: integer
         display: Hoogte
         width: 25
+        default: '1'
       column-end:
         type: integer
         display: Breedte
