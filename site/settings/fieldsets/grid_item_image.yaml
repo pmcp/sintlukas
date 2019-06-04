@@ -8,10 +8,11 @@ sections:
         display: Positie
       image:
         container: main
-        folder: /
+        folder: img
         restrict: false
         type: assets
         display: Afbeelding
         max_files: 1
 taxonomies: true
 title: 'Grid Image'
+hide: true

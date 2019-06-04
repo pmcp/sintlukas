@@ -2,6 +2,10 @@ sections:
   main:
     display: Main
     fields:
+      section__grid:
+        type: section
+        instructions: 'Elementen die in het grid geplaatst worden'
+        display: Grid
       grid_items:
         sets:
           grid_image:
@@ -20,13 +24,25 @@ sections:
                 display: item
         type: replicator
         display: 'Grid items'
+      section:
+        type: section
+        instructions: 'Foto''s en tekst in het blokje "Over"'
+        display: Over
+      about:
+        fieldset: about
+        type: partial
+        display: Over
+      section__atelier:
+        type: section
+        instructions: 'Ateliers'
+        display: Ateliers
       atelier:
         sets:
           atelier:
             display: atelier
             fields:
               atelier:
-                fieldset: gallery_normal
+                fieldset: atelier
                 type: partial
                 display: Atelier
         type: replicator

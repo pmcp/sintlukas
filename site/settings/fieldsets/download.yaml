@@ -1,0 +1,16 @@
+sections:
+  main:
+    display: Main
+    fields:
+      tekst:
+        type: text
+        display: Tekst
+      file:
+        container: main
+        folder: files
+        restrict: false
+        max_files: 1
+        type: assets
+        display: File
+taxonomies: false
+title: download__item

@@ -1,4 +1,3 @@
----
 grid_items:
   -
     type: grid_image
@@ -8,37 +7,62 @@ grid_items:
     column-end: 12
     image: /assets/giphy-1558530237.gif
   -
-    type: grid_text
-    column-start: 8
-    row-start: 3
-    row-end: 6
-    column-end: 18
-    text: 'Sint Lukas'
-    color: '#f2cbd1'
-    fontsize: 8
+    type: grid_image
+    column-start: 5
+    row-start: 5
+    row-end: 13
+    column-end: 8
+    image: /assets/img/site_beelden2.png
+  -
+    type: grid_image
+    column-start: 22
+    row-start: 2
+    row-end: 10
+    column-end: 11
+    image: /assets/img/gif-1559072429.gif
+about__text: |
+  <p>De Sint-Lukasacademie is een instelling van het deeltijds kunstonderwijs (DKO). We richten ons op kinderen (6 tot 12 jaar), jongeren (12 tot 18 jaar) en volwassenen (18 jaar en meer) die in hun vrije tijd de mogelijkheden van de beeldende kunsten willen verkennen. Wij bieden u, geheel naar onze unieke pedagogie, een kwalitatief onderwijs op maat in zowel creatieve als kunstbeschouwelijke opleidingen.
+  </p>
+  <p><br>
+  </p>
+  <p>Met de invoering van het nieuw decreet op het deeltijds onderwijs op 1 september 2018 heeft de Sint-Lukasacademie haar aanbod aangepast en geactualiseerd. Nieuw in ons aanbod is het atelier digitale kunst, het atelier grafisch ontwerp en illustratie en een opleiding in de kunstbeschouwing. De opleiding specialisatie is gereorganiseerd naar de nieuwe regelgeving. Hierdoor wordt de specialisatie de enige opleiding waar toelatingsvoorwaarden gelden
+  </p>
+about__images:
+  - '/assets/fotos Tom Janssens/sintlukas_tomjanssens_01_1.jpg'
+  - '/assets/fotos Tom Janssens/sintlukas_tomjanssens_78_1.jpg'
+  - '/assets/fotos Tom Janssens/sintlukas_tomjanssens_71_1.jpg'
+  - '/assets/fotos Tom Janssens/sintlukas_tomjanssens_55_1.jpg'
+  - '/assets/fotos Tom Janssens/sintlukas_tomjanssens_35_1.jpg'
+  - '/assets/fotos Tom Janssens/sintlukas_tomjanssens_42_1.jpg'
+  - '/assets/fotos Tom Janssens/sintlukas_tomjanssens_36_1.jpg'
+  - '/assets/fotos Tom Janssens/sintlukas_tomjanssens_32_1.jpg'
+  - '/assets/fotos Tom Janssens/sintlukas_tomjanssens_25_1.jpg'
 atelier:
   -
     type: atelier
-    title: 'Atelier 1'
+    title: 'Atelier kinderen'
     images:
       - /assets/img/2.jpg
       - /assets/giphy.gif
       - /assets/img/5.jpg
-      - /assets/img_5537.jpeg
-      - /assets/giphy-1558530237.gif
-      - /assets/img_5552.jpeg
-      - /assets/img_1069.jpeg
-      - /assets/img_5202.jpeg
-      - /assets/img_9183.jpeg
-      - /assets/img_6897.jpeg
-      - /assets/img_5413.jpeg
+      - '/assets/fotos Tom Janssens/sintlukas_tomjanssens_08_1.jpg'
+      - '/assets/fotos Tom Janssens/sintlukas_tomjanssens_09_1.jpg'
     text: |
       <p>Of read avidly by Synthetic cubism, practiced by Hegel's Lectures on a hundred. Founders modern art and hedonism initially influenced by Synthetic cubism, the Laocoon. As written sources—especially scripture and international adoption—would be reduced to be located earlier dates. Most Arnason Each of art, establishment of scholars who wrote. The pioneers of Leonardo's time and sexual orientation freud inferred from Winckelmann.
       </p>
     multiple: false
+    downloads:
+      -
+        type: download
+        tekst: 'Dit is de tekst op de knop'
+        file: /assets/files/st_lukas_1920_digitaal.pdf
+      -
+        type: download
+        tekst: 'Dit is de tweede file'
+        file: /assets/files/title-2x-8.png
   -
     type: atelier
-    title: 'Atelier 2'
+    title: 'Atelier jongeren'
     images:
       - /assets/img_1069.jpeg
       - /assets/img_9183.jpeg
@@ -60,5 +84,3 @@ template: home
 fieldset: home
 posts: 3
 id: db0ae4e3-4f10-4802-bc40-0b880cbf02c7
----
-Our latest blog posts:

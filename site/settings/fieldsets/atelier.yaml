@@ -1,0 +1,47 @@
+sections:
+  main:
+    display: Main
+    fields:
+      title:
+        display: Titel
+        type: text
+        localizable: true
+      text:
+        restrict_assets: false
+        type: redactor
+        display: Tekst
+      multiple:
+        type: toggle
+        display: 'Volwassen ateliers'
+      images:
+        container: main
+        folder: /
+        restrict: false
+        type: assets
+        display: Afbeeldingen
+        hide_when:
+          multiple: true
+      image:
+        container: main
+        folder: /
+        restrict: false
+        type: assets
+        display: Afbeelding
+        max_files: 1
+        hide_when:
+          multiple: false
+      downloads:
+        sets:
+          download:
+            display: 'Bestand om te downloaden'
+            fields:
+              partial:
+                fieldset: download
+                type: partial
+                display: partial
+            instructions: 'Voeg een bestand toe dat de bezoeker kan downloaden. Dit komt onderaan de tekst te staan.'
+        type: replicator
+        display: Downloads
+taxonomies: true
+title: Atelier
+hide: true

@@ -1,15 +1,25 @@
-<section class=" flex flex-wrap w-80 ma5 center">
-  <div class="w-100 w-50-ns tr bg-white pa5">
-    <h1>{{ title }} </h1>
-    {{ text }}
+
+  <div class="w-100 w-50-ns tr bg-white pa5 mt5">
+    <h3 class="f1">{{ title }} </h3>
+    <div class="f3">
+      {{ text }}
+      {{ if downloads }}
+        {{ downloads }}
+          {{ partial src="downloads__file"}}
+       {{ downloads }}
+      {{ /if }}
+    </div>
   </div>
-  <div class="w-100  w-50-ns masonry__container">
+  <div class="w-100  w-50-ns ateliers__masonry mt5">
     {{ assets:images }}
       <img
         src="{{ url }}"
         alt="{{ alt }}"
-        class="db w-100 pa1"
+        class="db w-100 pa1 js-modal"
+        data-modal-prefix-class="simple"
+      data-modal-text="<img class=&quot;db w-100&quot; src=&quot;{{ url }}&quot; />"
+      data-modal-title="{{ title }}"
+      data-modal-close-img="{{ theme:asset src='img/close.png' }}"
       />
     {{ /assets:images }}
   </div>
-</section>

@@ -20,3 +20,4 @@ sections:
         display: 'Tekst grootte'
 taxonomies: true
 title: 'Grid Text'
+hide: true

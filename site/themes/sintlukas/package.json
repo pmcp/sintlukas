@@ -39,5 +39,7 @@
     "stylelint-config-standard": "18.3.0",
     "stylelint-scss": "3.6.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "van11y-accessible-modal-tooltip-aria": "^2.3.0"
+  }
 }

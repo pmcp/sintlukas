@@ -1,7 +1,17 @@
-<div class="adults__container">
-  <h3 class="rotate-text pa1"> {{ title }}</h3>
-  {{ assets:image--hero }}
-<img class="db w-100" src="{{ url }}" />
-{{ /assets:image--hero }}
-  
+<div
+  class="adults__container js-modal"
+  data-modal-prefix-class="simple"
+      data-modal-text="{{ text }}  {{ assets:image }}
+    <img class=&quot;db w-100&quot; src=&quot;{{ url }}&quot; />
+  {{ /assets:image }}"
+      data-modal-title="{{ title }}"
+      data-modal-close-img="{{ theme:asset src='img/close.png' }}"
+>
+  <h3 class="adults__title--rotate pa1"> {{ title }}</h3>
+  {{ assets:image }}
+  <img
+    class="db w-100"
+    src="{{ url }}"
+  />
+  {{ /assets:image }}
 </div>

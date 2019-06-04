@@ -1,0 +1,18 @@
+sections:
+  main:
+    display: Main
+    fields:
+      about__text:
+        restrict_assets: false
+        type: redactor
+        display: text
+      about__images:
+        container: main
+        folder: /
+        restrict: false
+        type: assets
+        display: images
+        mode: grid
+taxonomies: true
+hide: true
+title: About

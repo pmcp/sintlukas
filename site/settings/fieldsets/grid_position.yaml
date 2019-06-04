@@ -4,12 +4,12 @@ sections:
     fields:
       column-start:
         type: integer
-        display: 'Start Kolom'
+        display: Startkolom
         width: 25
         default: '1'
       row-start:
         type: integer
-        display: 'Start Rij'
+        display: Startrij
         width: 25
         default: '1'
       row-end:
@@ -23,3 +23,4 @@ sections:
         default: '1'
 taxonomies: true
 title: 'Grid Position'
+hide: true
