@@ -3,4 +3,5 @@ roles:
 email: laure@sintlukas.brussels
 first_name: Laure
 last_name: 'D''hoe'
-id: f6d53dcf-b8a1-4fb1-b000-bed2c63ed3d5
+password_hash: $2y$10$uAfMXIN9FV0d7B5C66.QLOnmaU.HFMCzDHAs8L9ZxDigxqZ7us0ty
+id: 63b832dd-da2c-4db8-9bba-792f1071bd39

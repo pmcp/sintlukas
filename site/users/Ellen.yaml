@@ -3,4 +3,5 @@ roles:
 email: ellen.janssens@sintlukas.brussels
 first_name: Ellen
 last_name: Janssens
-id: 09c525cb-9a8d-44e6-a703-1dafbf153e5e
+password_hash: $2y$10$l1mZw58uehagvBimGBNVcOuGt7Bzxp0G8yHNHNWFpYao3GTf1khGm
+id: e9d4b48e-cf34-4d13-96cd-27fd1c2e4d9b
