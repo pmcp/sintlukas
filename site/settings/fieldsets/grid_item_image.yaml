@@ -8,7 +8,7 @@ sections:
         display: Positie
       image:
         container: main
-        folder: img
+        folder: grid
         restrict: false
         type: assets
         display: Afbeelding
