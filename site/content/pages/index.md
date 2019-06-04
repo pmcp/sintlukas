@@ -6,6 +6,13 @@ grid_items:
     row-end: 4
     column-end: 5
     image: grid/8.snake.gif
+  -
+    type: grid_image
+    column-start: 1
+    row-start: 1
+    row-end: 1
+    column-end: 1
+    image: grid/grow.gif
 about__text: |
   <p>De Sint-Lukasacademie is een instelling van het deeltijds kunstonderwijs (DKO). We richten ons op kinderen (6 tot 12 jaar), jongeren (12 tot 18 jaar) en volwassenen (18 jaar en meer) die in hun vrije tijd de mogelijkheden van de beeldende kunsten willen verkennen. Wij bieden u, geheel naar onze unieke pedagogie, een kwalitatief onderwijs op maat in zowel creatieve als kunstbeschouwelijke opleidingen.
   </p>
@@ -35,6 +42,8 @@ atelier:
       <p>Of read avidly by Synthetic cubism, practiced by Hegel's Lectures on a hundred. Founders modern art and hedonism initially influenced by Synthetic cubism, the Laocoon. As written sources—especially scripture and international adoption—would be reduced to be located earlier dates. Most Arnason Each of art, establishment of scholars who wrote. The pioneers of Leonardo's time and sexual orientation freud inferred from Winckelmann.
       </p>
     multiple: false
+    downloads:
+      - downloads/inclusive_toolkit_activities.pdf
   -
     type: atelier
     title: 'Atelier jongeren'
