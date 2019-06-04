@@ -1,0 +1,10 @@
+sections:
+  main:
+    display: Main
+    fields:
+      text:
+        type: text
+        display: 'Tekst op downloadknop'
+taxonomies: false
+title: assets__files
+hide: true

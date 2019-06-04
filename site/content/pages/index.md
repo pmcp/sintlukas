@@ -51,15 +51,6 @@ atelier:
       <p>Of read avidly by Synthetic cubism, practiced by Hegel's Lectures on a hundred. Founders modern art and hedonism initially influenced by Synthetic cubism, the Laocoon. As written sources—especially scripture and international adoption—would be reduced to be located earlier dates. Most Arnason Each of art, establishment of scholars who wrote. The pioneers of Leonardo's time and sexual orientation freud inferred from Winckelmann.
       </p>
     multiple: false
-    downloads:
-      -
-        type: download
-        tekst: 'Dit is de tekst op de knop'
-        file: /assets/files/st_lukas_1920_digitaal.pdf
-      -
-        type: download
-        tekst: 'Dit is de tweede file'
-        file: /assets/files/title-2x-8.png
   -
     type: atelier
     title: 'Atelier jongeren'
