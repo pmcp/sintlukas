@@ -7,7 +7,7 @@ sections:
         type: partial
         display: Positie
       image:
-        container: grid
+        container: main
         folder: grid
         restrict: false
         type: assets
