@@ -10,9 +10,6 @@ sections:
         restrict_assets: false
         type: redactor
         display: Tekst
-      multiple:
-        type: toggle
-        display: 'Volwassen ateliers'
       images:
         container: main
         folder: /
