@@ -36,13 +36,13 @@ atelier:
     title: 'Atelier kinderen'
     images:
       - /assets/scan-8-1559744939.jpeg
+      - grid/circle2.gif
       - /assets/img_0891.jpeg
       - /assets/img_0902.jpeg
       - /assets/img_0904.jpeg
       - /assets/img_0911.jpeg
       - /assets/img_0930.jpeg
       - /assets/img_0932.jpeg
-      - grid/circle2.gif
     text: |
       <p>atelierkinderen / 6-12 jaar<br>
       </p>
@@ -58,7 +58,7 @@ atelier:
       </p>
     multiple: false
     downloads:
-      - downloads/inclusive_toolkit_activities.pdf
+      - downloads/nieuwinschrijvingsformulier-1559749894.pdf
   -
     type: atelier
     title: 'Atelier jongeren'
