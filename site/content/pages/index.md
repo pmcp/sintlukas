@@ -62,13 +62,23 @@ atelier:
     title: 'Atelier jongeren'
     images:
       - /assets/jongeren.jpeg
-      - /assets/scan-9.jpeg
-      - /assets/img_1069.jpeg
-      - /assets/img_9183.jpeg
-      - /assets/img_6897.jpeg
-      - /assets/img_5552.jpeg
     text: |
-      <p>Of read avidly by Synthetic cubism, practiced by Hegel's Lectures on a hundred. Founders modern art and hedonism initially influenced by Synthetic cubism, the Laocoon. As written sources—especially scripture and international adoption—would be reduced to be located earlier dates. Most Arnason Each of art, establishment of scholars who wrote. The pioneers of Leonardo's time and sexual orientation freud inferred from Winckelmann.
+      <p> 12-18 jaar
+      </p>
+      <p>Via onderzoek en experiment ontdek je verschillende materialen en
+      disciplines: werken in 3D (gips, klei, assemblage), 2D (houtskool,
+      bister, verf, waarnemingstekenen), fotografie (werken in de studio,
+      donkere kamer, met digitale programma’s), grafiek (zeefdruk, ets,
+      linosnede), digitaal atelier, ... Je speelt met beeldende begrippen
+      als vorm, kleur, compositie, perspectief en contrast. Via observatie
+      en dialoog met je leerkracht ontwikkel je een eigen stijl. Laat je
+      onderdompelen in de rijke wereld van de kunstgeschiedenis, kom
+      snuisteren in onze gloednieuwe bibliotheek en laat je verrassen
+      door onze nieuwe campus! Deze ateliers zijn bovendien een goede
+      voorbereiding voor een opleiding in de Kunsthumaniora en/of in het
+      Hoger Kunstonderwijs.
+      </p>
+      <p><strong>WANNEER?</strong> woe 13:05 - 16:40
       </p>
     multiple: false
   -
