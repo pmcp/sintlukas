@@ -16,8 +16,6 @@ sections:
         restrict: false
         type: assets
         display: Afbeeldingen
-        hide_when:
-          multiple: true
 taxonomies: true
 title: 'Atelier Volwassenen'
 hide: true
