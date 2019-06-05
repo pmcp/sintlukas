@@ -10,15 +10,16 @@ grid_items:
     type: grid_image
     column-start: 1
     row-start: 1
-    row-end: 1
-    column-end: 1
-  -
-    type: grid_image
-    column-start: 1
-    row-start: 1
     row-end: 10
     column-end: 10
     image: /assets/grid/circle2.gif
+  -
+    type: grid_image
+    column-start: 15
+    row-start: 9
+    row-end: 50
+    column-end: 50
+    image: /assets/grid/goldengrid.gif
 about__text: |
   <p>De Sint-Lukasacademie is een instelling van het deeltijds kunstonderwijs (DKO). We richten ons op kinderen (6 tot 12 jaar), jongeren (12 tot 18 jaar) en volwassenen (18 jaar en meer) die in hun vrije tijd de mogelijkheden van de beeldende kunsten willen verkennen. Wij bieden u, geheel naar onze unieke pedagogie, een kwalitatief onderwijs op maat in zowel creatieve als kunstbeschouwelijke opleidingen.
   </p>
