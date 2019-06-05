@@ -38,13 +38,11 @@ atelier:
       - /assets/scan-8-1559744939.jpeg
       - grid/circle2.gif
       - /assets/img_0891.jpeg
-      - /assets/img_0902.jpeg
-      - /assets/img_0904.jpeg
       - /assets/img_0911.jpeg
       - /assets/img_0930.jpeg
       - /assets/img_0932.jpeg
     text: |
-      <p>atelierkinderen / 6-12 jaar<br>
+      <p> 6-12 jaar<br>
       </p>
       <p>Je maakt op een ludieke manier kennis met verschillende
       technieken: schilderen, tekenen, collages maken, sculpturen
