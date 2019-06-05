@@ -37,10 +37,24 @@ atelier:
     images:
       - /assets/scan-8-1559744939.jpeg
       - /assets/giphy.gif
-      - '/assets/fotos Tom Janssens/sintlukas_tomjanssens_08_1.jpg'
-      - '/assets/fotos Tom Janssens/sintlukas_tomjanssens_09_1.jpg'
+      - /assets/img_0891.jpeg
+      - /assets/img_0902.jpeg
+      - /assets/img_0904.jpeg
+      - /assets/img_0911.jpeg
+      - /assets/img_0930.jpeg
+      - /assets/img_0932.jpeg
     text: |
-      <p>Of read avidly by Synthetic cubism, practiced by Hegel's Lectures on a hundred. Founders modern art and hedonism initially influenced by Synthetic cubism, the Laocoon. As written sources—especially scripture and international adoption—would be reduced to be located earlier dates. Most Arnason Each of art, establishment of scholars who wrote. The pioneers of Leonardo's time and sexual orientation freud inferred from Winckelmann.
+      <p>atelierkinderen / 6-12 jaar<br>
+      </p>
+      <p>Je maakt op een ludieke manier kennis met verschillende
+      technieken: schilderen, tekenen, collages maken, sculpturen
+      kneden in klei, fotograferen, etsen, ... Laat je verwonderen door
+      de rijke wereld van materialen, technieken en kunststromingen.
+      Je wordt geprikkeld om te doen, te experimenteren en prikkels al
+      spelend om te zetten in sprekende beelden!
+      </p>
+      <p><strong>WANNEER?</strong> ma 15.50 -17.30 / di 15.50 - 17.30
+       wo 13.30 - 15.20 / do 15:50 - 17:30
       </p>
     multiple: false
     downloads:
