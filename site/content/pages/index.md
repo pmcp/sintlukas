@@ -35,6 +35,7 @@ atelier:
     type: atelier
     title: 'Atelier kinderen'
     images:
+      - /assets/scan-8-1559744939.jpeg
       - /assets/giphy.gif
       - '/assets/fotos Tom Janssens/sintlukas_tomjanssens_08_1.jpg'
       - '/assets/fotos Tom Janssens/sintlukas_tomjanssens_09_1.jpg'
