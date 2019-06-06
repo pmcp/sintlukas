@@ -104,7 +104,7 @@ locations:
   -
     type: location
     map:
-      zoom: '4'
+      zoom: '14'
       height: 400px
       width: 100%
       address: 'Groenstraat 156, 1030 Schaarbeek'
@@ -287,7 +287,7 @@ locations:
   -
     type: location
     map:
-      zoom: '20'
+      zoom: '14'
       height: 400px
       width: 100%
       address: 'Helmetsesteenweg 216, 1030 Schaarbeek'
