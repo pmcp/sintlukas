@@ -63,6 +63,7 @@ atelier:
     multiple: false
     downloads:
       - downloads/nieuwinschrijvingsformulier-1559749894.pdf
+    collection: false
   -
     type: atelier
     title: 'Atelier jongeren'
@@ -87,10 +88,12 @@ atelier:
       <p><strong>WANNEER?</strong> woe 13:05 - 16:40
       </p>
     multiple: false
+    collection: false
   -
     type: atelier
     title: 'Ateliers: Volwassenen'
     multiple: true
+    collection: true
 title: Home
 template: home
 fieldset: home
