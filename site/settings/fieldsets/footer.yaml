@@ -17,6 +17,17 @@ sections:
         type: redactor
         width: 33
         display: 'BLok 3'
+      locations:
+        sets:
+          location:
+            display: location
+            fields:
+              location:
+                fieldset: location
+                type: partial
+                display: location
+        type: replicator
+        display: Locaties
 taxonomies: true
 hide: true
 title: footer
