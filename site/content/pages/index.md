@@ -287,7 +287,7 @@ locations:
   -
     type: location
     map:
-      zoom: '4'
+      zoom: '20'
       height: 400px
       width: 100%
       address: 'Helmetsesteenweg 216, 1030 Schaarbeek'
