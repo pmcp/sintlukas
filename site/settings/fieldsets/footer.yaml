@@ -1,0 +1,11 @@
+sections:
+  main:
+    display: Main
+    fields:
+      field_1:
+        restrict_assets: false
+        type: redactor
+        display: 'Field 1'
+taxonomies: true
+hide: true
+title: footer
