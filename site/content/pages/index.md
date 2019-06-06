@@ -281,6 +281,9 @@ locations:
         ]
       mapboxStyles: ''
       mapType: google
+    text: |
+      <p>Het adres met uitleg enzo<br>
+      </p>
 text_1: |
   <p>Tekst 1<br>
   </p>
