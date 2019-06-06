@@ -24,6 +24,9 @@ sections:
         restrict: true
         type: assets
         display: Downloads
+      collection:
+        type: toggle
+        display: Volwassenen
 taxonomies: true
 title: Atelier
 hide: true
