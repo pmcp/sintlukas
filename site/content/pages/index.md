@@ -91,15 +91,6 @@ atelier:
     type: atelier
     title: 'Ateliers: Volwassenen'
     collection: true
-footer__text--1: |
-  <p>Tekst 1<br>
-  </p>
-footer__text--2: |
-  <p>Tekst 2
-  </p>
-footer__text--3: |
-  <p>Tekst 3
-  </p>
 locations:
   -
     type: location

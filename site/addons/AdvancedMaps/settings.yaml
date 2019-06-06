@@ -1,0 +1,5 @@
+fields:
+  google_api_key:
+    type: text
+  mapbox_api_key:
+    type: text
