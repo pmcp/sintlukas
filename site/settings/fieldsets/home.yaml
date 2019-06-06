@@ -45,9 +45,6 @@ sections:
                 fieldset: atelier
                 type: partial
                 display: Atelier
-              id:
-                type: text
-                display: id
         type: replicator
         display: Atelier
 taxonomies: true
