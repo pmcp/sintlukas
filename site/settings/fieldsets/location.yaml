@@ -1,0 +1,14 @@
+sections:
+  main:
+    display: Main
+    fields:
+      text:
+        restrict_assets: false
+        type: redactor
+        display: Adres
+      map:
+        type: advanced_maps
+        display: map
+taxonomies: true
+hide: true
+title: location
