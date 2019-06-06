@@ -104,7 +104,7 @@ locations:
   -
     type: location
     map:
-      zoom: 10
+      zoom: '4'
       height: 400px
       width: 100%
       address: 'Groenstraat 156, 1030 Schaarbeek'
