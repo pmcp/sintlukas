@@ -47,5 +47,9 @@ sections:
                 display: Atelier
         type: replicator
         display: Atelier
+      contact:
+        fieldset: footer
+        type: partial
+        display: Contact
 taxonomies: true
 title: Home
