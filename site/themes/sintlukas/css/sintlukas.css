@@ -33,6 +33,16 @@ body {
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 }
 
+.section__wrapper {
+  background:
+  white
+    url(data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAA3SURBVHgB7dexEQAgDAOxmP13hjCFG/2de7XO3aZUkjlTDgAAAAAAAAAAAAAAAACgDsiuds9/D/hwBT1Gv1WUAAAAAElFTkSuQmCC)
+    repeat top left;
+  background-attachment: fixed;
+  background-size: 2.1vw;
+  position: relative;
+  z-index: 200;
+}
 
 section {
   position: relative;
@@ -66,7 +76,6 @@ nav {
   width: 2.2rem;
 }
 
-
 /* GRID */
 header {
   width: 100%;
@@ -91,6 +100,7 @@ header {
     repeat top left;
     background-size: 2.1vw;
 }
+
 
 /* FOOTER */
 footer {
