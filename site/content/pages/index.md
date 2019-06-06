@@ -282,15 +282,227 @@ locations:
       mapboxStyles: ''
       mapType: google
     text: |
-      <p>Het adres met uitleg enzo<br>
+      <nav>
+      <strong>Sint-Lukas Academie - Deeltijds Kunstonderwijs</strong></nav><address>	
+      			Groenstraat 156
+      <br>
+      1030 Brussel (Schaarbeek)<br>
+      </address>
+      <p>email: <a href="mailto:academie@sintlukas.brussels">academie@sintlukas.brussels</a><br>
+      </p>
+      <p>tel: 022177700 / 0484947861
+      </p>
+      <p>		Aarzel niet om ons te contacteren via e-mail, telefoon, of kom gewoon even langs op ons secretariaat
+      </p>
+      <p>		iedere maandag-, dinsdag-, en donderdagavond tussen 17.30 uur en 21 uur.
       </p>
   -
     type: location
+    text: |
+      <p><strong>Basisschool Champagnat en Basisschool Heilige Familie</strong>
+      </p><address>
+      Helmetsesteenweg 216, <br>
+      1030 Schaarbeek
+      </address>
+      <p>Email: <a href="mailto:barbara.bredeschoolhelmet@gmail.com">barbara.bredeschoolhelmet@gmail.com</a>
+      </p>
+      <p>Tel: 02 242 66 28
+      </p>
     map:
       zoom: '14'
       height: 400px
       width: 100%
-      address: 'Helmetsesteenweg 216, 1030 Schaarbeek'
+      address: 'Vandenbusschestraat 36, 1030 Schaarbeek'
+      googleStyles: |
+        [
+            {
+                "featureType": "all",
+                "elementType": "geometry.fill",
+                "stylers": [
+                    {
+                        "weight": "2.00"
+                    }
+                ]
+            },
+            {
+                "featureType": "all",
+                "elementType": "geometry.stroke",
+                "stylers": [
+                    {
+                        "color": "#9c9c9c"
+                    }
+                ]
+            },
+            {
+                "featureType": "all",
+                "elementType": "labels.text",
+                "stylers": [
+                    {
+                        "visibility": "on"
+                    }
+                ]
+            },
+            {
+                "featureType": "landscape",
+                "elementType": "all",
+                "stylers": [
+                    {
+                        "color": "#f2f2f2"
+                    }
+                ]
+            },
+            {
+                "featureType": "landscape",
+                "elementType": "geometry.fill",
+                "stylers": [
+                    {
+                        "color": "#ffffff"
+                    }
+                ]
+            },
+            {
+                "featureType": "landscape.man_made",
+                "elementType": "geometry.fill",
+                "stylers": [
+                    {
+                        "color": "#ffffff"
+                    }
+                ]
+            },
+            {
+                "featureType": "poi",
+                "elementType": "all",
+                "stylers": [
+                    {
+                        "visibility": "off"
+                    }
+                ]
+            },
+            {
+                "featureType": "road",
+                "elementType": "all",
+                "stylers": [
+                    {
+                        "saturation": -100
+                    },
+                    {
+                        "lightness": 45
+                    }
+                ]
+            },
+            {
+                "featureType": "road",
+                "elementType": "geometry.fill",
+                "stylers": [
+                    {
+                        "color": "#eeeeee"
+                    }
+                ]
+            },
+            {
+                "featureType": "road",
+                "elementType": "labels.text.fill",
+                "stylers": [
+                    {
+                        "color": "#7b7b7b"
+                    }
+                ]
+            },
+            {
+                "featureType": "road",
+                "elementType": "labels.text.stroke",
+                "stylers": [
+                    {
+                        "color": "#ffffff"
+                    }
+                ]
+            },
+            {
+                "featureType": "road.highway",
+                "elementType": "all",
+                "stylers": [
+                    {
+                        "visibility": "simplified"
+                    }
+                ]
+            },
+            {
+                "featureType": "road.arterial",
+                "elementType": "labels.icon",
+                "stylers": [
+                    {
+                        "visibility": "off"
+                    }
+                ]
+            },
+            {
+                "featureType": "transit",
+                "elementType": "all",
+                "stylers": [
+                    {
+                        "visibility": "off"
+                    }
+                ]
+            },
+            {
+                "featureType": "water",
+                "elementType": "all",
+                "stylers": [
+                    {
+                        "color": "#46bcec"
+                    },
+                    {
+                        "visibility": "on"
+                    }
+                ]
+            },
+            {
+                "featureType": "water",
+                "elementType": "geometry.fill",
+                "stylers": [
+                    {
+                        "color": "#c8d7d4"
+                    }
+                ]
+            },
+            {
+                "featureType": "water",
+                "elementType": "labels.text.fill",
+                "stylers": [
+                    {
+                        "color": "#070707"
+                    }
+                ]
+            },
+            {
+                "featureType": "water",
+                "elementType": "labels.text.stroke",
+                "stylers": [
+                    {
+                        "color": "#ffffff"
+                    }
+                ]
+            }
+        ]
+      mapboxStyles: ''
+      mapType: google
+  -
+    type: location
+    text: |
+      <p><strong>Boodschapinstituut</strong>
+      </p><address>
+      Vandenbusschestraat 36, <br>
+      1030 Schaarbeek
+      </address>
+      <p>Email: <a href="mailto:boodschap.schaarbeek@gmail.com">boodschap.schaarbeek@gmail.com</a>
+      </p>
+      <p>Tel: 02 241 73 87
+      </p>
+    map:
+      zoom: '14'
+      height: 400px
+      width: 100%
+      address: 'Vandenbusschestraat 36, 1030 Schaarbeek'
       googleStyles: |
         [
             {
