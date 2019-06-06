@@ -469,7 +469,7 @@ locations:
     text: |
       <p><strong>Boodschapinstituut</strong><br>Vandenbusschestraat 36,<br>1030 Schaarbeek
       </p>
-      <p><br>Email: <a href="mailto:boodschap.schaarbeek@gmail.com">boodschap.schaarbeek@gmail.com</a><br>Tel: 02 241 73 87
+      <p>Email: <a href="mailto:boodschap.schaarbeek@gmail.com">boodschap.schaarbeek@gmail.com</a><br>Tel: 02 241 73 87
       </p>
     map:
       zoom: '14'
