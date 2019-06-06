@@ -291,14 +291,9 @@ locations:
   -
     type: location
     text: |
-      <p><strong>Basisschool Champagnat en Basisschool Heilige Familie</strong>
-      </p><address>
-      Helmetsesteenweg 216, <br>
-      1030 Schaarbeek
-      </address>
-      <p>Email: <a href="mailto:barbara.bredeschoolhelmet@gmail.com">barbara.bredeschoolhelmet@gmail.com</a>
+      <p><strong>Basisschool Champagnat en Basisschool Heilige Familie</strong><br>Helmetsesteenweg 216,<br>1030 Schaarbeek
       </p>
-      <p>Tel: 02 242 66 28
+      <p>Email: <a href="mailto:barbara.bredeschoolhelmet@gmail.com">barbara.bredeschoolhelmet@gmail.com</a>Tel: 02 242 66 28
       </p>
     map:
       zoom: '14'
