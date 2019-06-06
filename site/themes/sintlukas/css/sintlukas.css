@@ -31,6 +31,7 @@ body {
   font-size: 1.8em; /* equiv 18px */
   line-height: 1.5; /* to update if needed */
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  scroll-behavior: smooth;
 }
 
 .section__wrapper {
@@ -52,6 +53,11 @@ section {
 /* FONT */
 h1, h2, h3 {
   font-family: wask_regular, Helvetica, Arial, sans-serif;
+}
+
+h2 {
+  background-color: #fff;
+  display: inline-block;
 }
 
 /* NAV */
@@ -109,6 +115,12 @@ footer {
 }
 
 /* ATELIERS */
+
+.atelier__nav {
+  font-family: wask_regular, Helvetica, Arial, sans-serif;
+
+}
+
 .ateliers__masonry { 
   -moz-column-count:3;
   -moz-column-gap: 3%;
@@ -137,11 +149,13 @@ footer {
   position: absolute;
   top: -20px;
   left: 0;
-  
   background-color: white;
   transform-origin: 0 0;
   transform: rotate(90deg);
+}
 
+.adults__container p {
+  /* font-size: 1rem; */
 }
 
 /* MODAL */

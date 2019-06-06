@@ -1,1 +1,29 @@
-FOOTER
+<div class="fl ph4 f3 w-100 w-third-ns">
+  {{ footer__text--1}}
+</div>
+<div class="fl ph4 f3 w-100 w-third-ns">
+  {{ footer__text--2}}
+</div>
+<div class="fl ph4 f3 w-100 w-third-ns">
+  {{ footer__text--3}}
+</div>
+
+{{ locations }}
+  {{ if first }}
+    
+
+    <div class="fl f3 w-100 w-30-m w-30-l pa5 ">
+        {{ text }}
+        </div>
+
+        <div class="fl f3 w-100 w-70-m w-70-l pa5">
+            {{ map | advanced_maps }}
+          </div>
+
+  {{ else }}
+    <div class="fl mt5 f3 w-100 w-50-m w-50-l pa5">
+      {{ text }}
+      {{ map | advanced_maps }}
+    </div>
+  {{ /if }}
+{{ /locations }}

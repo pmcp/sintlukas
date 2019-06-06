@@ -5,22 +5,38 @@
     {{ partial src="grid"}}
 </header>
 
-<section id="over" class="bg-white ">
+<section class="bg-white">
+    <div id="over" style="height:8rem;width:100%;"></div>
     <div class="w-80 subtitle center">
-      <h2>Over</h2>
+        
+      <!-- <h2 class="mt5 ph5 pv1">Over</h2> -->
     </div>
   {{ partial src="about"}}
 </section>
 
 <div class="section__wrapper">
-  <section id="opleidingen" class=" flex flex-wrap w-80  center">
+  <div id="opleidingen" style="height:8rem;width:100%;"></div>
+  <section class=" flex flex-wrap w-80  center">
     <div class="w-80 subtitle ">
-      <h2>Opleidingen</h2>
+      <h2 class="mt5 ph5 pv1">Opleidingen</h2>
+    </div>
+        
+    <div class="flex w-100 justify-between pb3">
+      <div>
+        {{ atelier }}
+          <a
+            class="link black dib mr3 bg-white ph5 pv2 atelier__nav"
+            href="/#{{ title | dashify }}"
+            title="{{ title }}"
+          >{{ title }}</a>
+        {{ /atelier }}
+      </div>
+      
     </div>
   {{ atelier }}
-    {{ if multiple == false }}
+    {{ if collection == false }}
       {{ partial src="atelier"}}
-    {{ elseif multiple == true }}
+    {{ elseif collection == true }}
     {{ partial src="atelier--adult"}}
     {{ /if }}
   {{ /atelier }}
@@ -28,8 +44,13 @@
   </section>
 
 
-
-  <footer class="pa4 pa5-l black-70 bt b--black-10 bg-white">
-    {{ partial src="footer"}}
+  <div id="contact" style="height:8rem;width:100%;"></div>
+  <footer class="pa4 pa5-l flex bg-white w-100  center">
+      
+    <div class="w-100 center">
+        <h2 class="mt5 pv1 w-100 pa5">Contact</h2>      
+      
+      {{ partial src="footer"}}
+    </div>
   </footer>
 </div>

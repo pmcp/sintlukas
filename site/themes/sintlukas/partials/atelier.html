@@ -1,41 +1,42 @@
-
-<div class="w-100 w-50-ns tr bg-white pa5 mt5">
+<div id="{{ title | dashify }}" style="height:8rem;width:100%;"></div>
+<div class="w-100  w-60-l tr bg-white ph5">
   <h3 class="f1">{{ title }} </h3>
   <div class="f3">
     {{ text }}
     {{ if downloads }}
       {{ partial src="downloads__file"}}
     {{ /if }}
+  <div>
+    {{ if images | count < 1 }}
+
+    {{ else }}
+    <div class="f4 link dim br1 ba ph3 pv2 mb2 dib black pointer js-modal"
+    data-modal-prefix-class="simple"
+    data-modal-text="{{ partial src=&quot;atelier__popup&quot; }}"
+    data-modal-title="Foto's"
+    data-modal-close-img="{{ theme:asset src='img/close.png' }}">
+        Bekijk de foto's
+    </div>
+
+    {{ /if }}
+  </div>
+
   </div>
 </div>
-<div class="w-100  w-50-ns mt5">
+<div class="w-100   w-40-l ph5-l">
   {{ assets:images }}
     {{ if first }}
-    <div class="fl w-100 tc ">
-      <img
-        src="{{ url }}"
-        alt="{{ alt }}"
-        class="db w-100 pa1 js-modal"
-        data-modal-prefix-class="simple"
-        data-modal-text="<img class=&quot;db w-100&quot; src=&quot;{{ url }}&quot; />"
-        data-modal-title="{{ title }}"
-        data-modal-close-img="{{ theme:asset src='img/close.png' }}"
-      />
-    </div>
-    {{ else }}
-    
-    
-    <div class="fl w-100 w-20-ns tc">
-      <img
-        src="{{ url }}"
-        alt="{{ alt }}"
-        class="db w-100 pa1 js-modal"
-        data-modal-prefix-class="simple"
-        data-modal-text="<img class=&quot;db w-100&quot; src=&quot;{{ url }}&quot; />"
-        data-modal-title="{{ title }}"
-        data-modal-close-img="{{ theme:asset src='img/close.png' }}"
-      />
-    </div>
+      <div class="fl w-100 tc">
+        <img
+          src="{{ url }}"
+          alt="{{ alt }}"
+          class="db w-100 pl3 js-modal"
+          data-modal-prefix-class="simple"
+          data-modal-text="<img style=&quot;max-height:80vh;width:auto&quot; class=&quot;db center &quot; src=&quot;{{ url }}&quot; />"
+          data-modal-title="{{ title }}"
+          data-modal-close-img="{{ theme:asset src='img/close.png' }}"
+        />
+      </div>
     {{ /if }}
   {{ /assets:images }}
 </div>
