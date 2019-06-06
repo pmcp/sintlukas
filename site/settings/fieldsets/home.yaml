@@ -34,7 +34,7 @@ sections:
         display: Over
       section__atelier:
         type: section
-        instructions: 'Ateliers'
+        instructions: Ateliers
         display: Ateliers
       atelier:
         sets:
@@ -45,6 +45,9 @@ sections:
                 fieldset: atelier
                 type: partial
                 display: Atelier
+              id:
+                type: text
+                display: id
         type: replicator
         display: Atelier
 taxonomies: true
