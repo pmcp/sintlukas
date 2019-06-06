@@ -2,10 +2,21 @@ sections:
   main:
     display: Main
     fields:
-      field_1:
+      text_1:
         restrict_assets: false
         type: redactor
-        display: 'Field 1'
+        display: 'Blok 1'
+        width: 33
+      text_2:
+        restrict_assets: false
+        type: redactor
+        width: 33
+        display: 'Blok 2'
+      text_3:
+        restrict_assets: false
+        type: redactor
+        width: 33
+        display: 'BLok 3'
 taxonomies: true
 hide: true
 title: footer
