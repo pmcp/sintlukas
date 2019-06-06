@@ -91,14 +91,14 @@ atelier:
     type: atelier
     title: 'Ateliers: Volwassenen'
     collection: true
-text_1: |
+footer__text--1: |
   <p>Tekst 1<br>
   </p>
-text_2: |
+footer__text--2: |
   <p>Tekst 2
   </p>
-text_3: |
-  <p>Tekst 3<br>
+footer__text--3: |
+  <p>Tekst 3
   </p>
 locations:
   -
@@ -281,6 +281,15 @@ locations:
         ]
       mapboxStyles: ''
       mapType: google
+text_1: |
+  <p>Tekst 1<br>
+  </p>
+text_2: |
+  <p>Tekst 2
+  </p>
+text_3: |
+  <p>Tekst 3<br>
+  </p>
 title: Home
 template: home
 fieldset: home
