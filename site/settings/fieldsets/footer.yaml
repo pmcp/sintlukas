@@ -2,17 +2,17 @@ sections:
   main:
     display: Main
     fields:
-      text_1:
+      footer__text--1:
         restrict_assets: false
         type: redactor
         display: 'Blok 1'
         width: 33
-      text_2:
+      footer__text--2:
         restrict_assets: false
         type: redactor
         width: 33
         display: 'Blok 2'
-      text_3:
+      footer__text--3:
         restrict_assets: false
         type: redactor
         width: 33
