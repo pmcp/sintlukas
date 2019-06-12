@@ -8,6 +8,13 @@ grid_items:
     image: /assets/grid/gif_yellow_noraster.gif
   -
     type: grid_image
+    column-start: 15
+    row-start: 14
+    row-end: 12
+    column-end: 15
+    image: /assets/grid/site_beelden4.png
+  -
+    type: grid_image
     column-start: 7
     row-start: 15
     row-end: 6
@@ -22,8 +29,8 @@ grid_items:
     image: /assets/grid/marble.gif
   -
     type: grid_image
-    column-start: 15
-    row-start: 14
+    column-start: 12
+    row-start: 11
     row-end: 5
     column-end: 13
     image: /assets/grid/grow.gif
