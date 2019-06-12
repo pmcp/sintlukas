@@ -284,7 +284,7 @@ locations:
   -
     type: location
     text: |
-      <p><strong>Basisschool Champagnat en Basisschool Heilige Familie</strong><br>Helmetsesteenweg 216,<br>1030 Schaarbeek
+      <p><strong>Basisschool Champagnat en Basisschool Heilige Familie </strong>(filiaal)<strong></strong><br>Helmetsesteenweg 216,<br>1030 Schaarbeek
       </p>
     map:
       zoom: '14'
