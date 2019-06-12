@@ -1,6 +1,6 @@
 sections:
-  main:
-    display: Main
+  Grid:
+    display: Grid
     fields:
       section__grid:
         type: section
@@ -51,5 +51,11 @@ sections:
         fieldset: footer
         type: partial
         display: Contact
+  over:
+    display: Over
+    fields:
+      title:
+        display: Title
+        type: text
 taxonomies: true
 title: Home
