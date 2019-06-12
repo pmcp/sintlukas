@@ -1,0 +1,10 @@
+sections:
+  main:
+    display: Main
+    fields:
+      text:
+        restrict_assets: false
+        type: redactor
+        display: text
+taxonomies: true
+title: inschrijvingen
