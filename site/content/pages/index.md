@@ -1016,7 +1016,7 @@ locations:
   -
     type: location
     text: |
-      <p><strong>Basisschool De Kriek / Paviljoenschool</strong><br>François-Joseph Navez straat 59<br>1030 Schaarbeek
+      <p><strong>Basisschool De Kriek / Paviljoenschool</strong> (filiaal)<strong></strong><br>François-Joseph Navez straat 59<br>1030 Schaarbeek
       </p>
     map:
       zoom: 10
