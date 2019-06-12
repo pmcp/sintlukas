@@ -94,6 +94,8 @@ atelier:
     type: atelier
     title: 'Atelier: Volwassenen'
     collection: true
+    downloads:
+      - downloads/st_lukas_1920_digitaal.pdf
 inschrijvingen__title: 'Inschrijvingen (tot 30 september)'
 inschrijvingen__text: |
   <p>In juli en augustus kan je een plaatsje reserveren per mail (<a href="mailto:academie@sintlukas.brussels">academie@sintlukas.brussels</a>).<br>In juni en september kan je inschrijven op het secretariaat (Groenstraat 156, 1030 Brussel) of per mail.<br>Openingsuren secretariaat: ma 08:40 - 21: 00, di 08:40 - 21:00, woe 08:40 - 17:00, do 08:40 - 21:00, vr 08:40 -17:00 uur.
