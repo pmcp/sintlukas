@@ -467,7 +467,7 @@ locations:
   -
     type: location
     text: |
-      <p><strong>Boodschapinstituut</strong><br>Vandenbusschestraat 36,<br>1030 Schaarbeek
+      <p><strong>Boodschapinstituut </strong>(filiaal)<strong></strong><br>Vandenbusschestraat 36,<br>1030 Schaarbeek
       </p>
     map:
       zoom: '14'
