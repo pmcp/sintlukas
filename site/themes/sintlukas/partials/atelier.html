@@ -4,27 +4,35 @@
     style="height:8rem;width:100%;"
   >
   </div>
-  <div class="flex w-100 flex-wrap" >
+  <div class="flex w-100 flex-wrap">
     <div class="w-100 w-50-l tr-ns tl bg-white ph5">
       <h3 class="f1">{{ title }} </h3>
       <div class="f3">
         {{ text }}
         {{ if downloads }}
-        {{ partial src="downloads__file"}}
+        {{ assets:downloads }}
+        <a
+          href="{{ url }}" download class="f4 link dim br1 ba ph3 pv2 mb2 dib black">
+          {{ text }}
+        </a>
+        {{ /assets:downloads }}
+
+
+
         {{ /if }}
         <div>
           {{ if atelier__images | count < 1 }}
           {{ else }}
-                
-                  <div
-                    class="f4 link dim br1 ba ph3 pv2 mb2 dib black pointer js-modal"
-                    data-modal-prefix-class="simple"
-                    data-modal-text="{{ partial src=&quot;atelier__popup&quot; }}"
-                    data-modal-title="Foto's"
-                    data-modal-close-img="{{ theme:asset src='img/close.png' }}"
-                  >
-                    Bekijk de foto's
-                  </div>
+
+          <div
+            class="f4 link dim br1 ba ph3 pv2 mb2 dib black pointer js-modal"
+            data-modal-prefix-class="simple"
+            data-modal-text="{{ partial src=&quot;atelier__popup&quot; }}"
+            data-modal-title="Foto's"
+            data-modal-close-img="{{ theme:asset src='img/close.png' }}"
+          >
+            Bekijk de foto's
+          </div>
           {{ /if }}
 
         </div>
