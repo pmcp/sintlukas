@@ -13,8 +13,9 @@
         {{ partial src="downloads__file"}}
         {{ /if }}
         <div>
-          {{ if images | count < 1 }}
+          {{ if atelier__images | count < 1 }}
           {{ else }}
+                
                   <div
                     class="f4 link dim br1 ba ph3 pv2 mb2 dib black pointer js-modal"
                     data-modal-prefix-class="simple"
@@ -30,7 +31,7 @@
       </div>
     </div>
     <div class="w-100 w-50-l ph5-l">
-      {{ assets:images }}
+      {{ assets:atelier__images }}
       {{ if first }}
       <div class="fl w-100 tc">
         <img
@@ -44,7 +45,7 @@
         />
       </div>
       {{ /if }}
-      {{ /assets:images }}
+      {{ /assets:atelier__images }}
     </div>
   </div>
 </div>

@@ -41,7 +41,7 @@ atelier:
   -
     type: atelier
     title: 'Atelier kinderen'
-    images:
+    atelier__images:
       - /assets/scan-8-1559744939.jpeg
       - /assets/img_0891.jpeg
       - /assets/img_0911.jpeg
@@ -66,7 +66,7 @@ atelier:
   -
     type: atelier
     title: 'Atelier jongeren'
-    images:
+    atelier__images:
       - /assets/jongeren.jpeg
     text: |
       <p> 12-18 jaar
