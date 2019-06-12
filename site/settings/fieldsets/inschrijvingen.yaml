@@ -2,11 +2,11 @@ sections:
   main:
     display: Main
     fields:
-      title:
+      inschrijvingen__title:
         display: Titel
         type: text
         localizable: true
-      text:
+      inschrijvingen__text:
         restrict_assets: false
         type: redactor
         display: text
