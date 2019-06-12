@@ -16,12 +16,6 @@ sections:
         restrict: false
         type: assets
         display: Afbeeldingen
-      adults__downloads:
-        container: downloads
-        folder: /
-        restrict: false
-        type: assets
-        display: Downloads
 taxonomies: true
 title: 'Atelier Volwassenen'
 hide: true
