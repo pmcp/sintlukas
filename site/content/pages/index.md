@@ -279,6 +279,8 @@ locations:
       </p>
       <p>Aarzel niet om ons te contacteren via e-mail of telefoon. <br>Of kom gewoon eens langs op het secretariaat (maandag, dinsdag en donderdag van <br>08:40 - 21:00 en woensdag en vrijdag van 08:40 - 17:00 uur).
       </p>
+      <p>De Academie ligt op wandelafstand van het Brussel Noord station en is bereikbaar via tramlijnen T3, T4, T55, T25 , T94, M Rogier, M Kruidtuin. <br>
+      </p>
   -
     type: location
     text: |
