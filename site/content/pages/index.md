@@ -650,7 +650,7 @@ locations:
   -
     type: location
     text: |
-      <p><strong>Basisschool Sint-Joost-aan- Zee</strong><br>Grensstraat 67<br>1210 Sint-Joost-ten-Node
+      <p><strong>Basisschool Sint-Joost-aan- Zee</strong> (filiaal)<strong></strong><span class="redactor-invisible-space"></span><br>Grensstraat 67<br>1210 Sint-Joost-ten-Node
       </p>
     map:
       zoom: 10
