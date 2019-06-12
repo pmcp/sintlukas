@@ -1049,7 +1049,7 @@ locations:
       zoom: '14'
       height: 400px
       width: 100%
-      address: 'Ulensstraat 83 1080 Sint-Jans-Molenbeek​'
+      address: 'François-Joseph Navez straat 59 1030 Schaarbeek'
       googleStyles: |
         [
             {
