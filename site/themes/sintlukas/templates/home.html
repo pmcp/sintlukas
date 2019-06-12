@@ -33,16 +33,22 @@
       </div>
       
     </div>
-  {{ atelier }}
-    {{ if collection == false }}
-      {{ partial src="atelier"}}
-    {{ elseif collection == true }}
-    {{ partial src="atelier--adult"}}
-    {{ /if }}
-  {{ /atelier }}
+    <div class="ateliers__container">
+      {{ atelier }}
+        {{ if collection == false }}
+          {{ partial src="atelier"}}
+        {{ elseif collection == true }}
+        {{ partial src="atelier--adult"}}
+        {{ /if }}
+      {{ /atelier }}
+    </div>
       
   </section>
 
+  <div id="inschrijven" style="height:8rem;width:100%;"></div>
+  <section class="pa4 pa5-l bg-white w-80 f3 center">
+    {{ partial src="inschrijvingen" }}
+  </section>
 
   <div id="contact" style="height:8rem;width:100%;"></div>
   <footer class="pa4 pa5-l flex bg-white w-100  center">

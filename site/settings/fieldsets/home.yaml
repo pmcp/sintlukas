@@ -45,6 +45,7 @@ sections:
     display: Inschrijvingen
     fields:
       inschrijvingen:
+        fieldset: inschrijvingen
         type: partial
         display: inschrijvingen
   contact:

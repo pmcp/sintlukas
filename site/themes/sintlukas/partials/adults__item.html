@@ -4,8 +4,7 @@
       data-modal-text="<div class=&quot;fl w-100 w-50-l &quot;>{{ assets:images }}
           <img class=&quot;db w-100 pa3&quot; src=&quot;{{ url }}&quot; />
         {{ /assets:images }}</div>
-            <div class=&quot;fl pl4 w-100 w-50-l f3 &quot;>{{ text }}</div>
-        "
+            <div class=&quot;fl pl4 w-100 w-50-l f3 &quot;>{{ text }}<div>{{ if downloads }}{{ partial src=&quot;downloads__file&quot;}}{{ /if }}</div></div>"
       data-modal-title="{{ title }}"
       data-modal-close-img="{{ theme:asset src='img/close.png' }}"
 >

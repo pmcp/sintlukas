@@ -1,31 +1,37 @@
-<div id="{{ title | dashify }}" style="height:8rem;width:100%;"></div>
-<div class="w-100  w-60-l tr bg-white ph5">
-  <h3 class="f1">{{ title }} </h3>
-  <div class="f3">
-    {{ text }}
-    {{ if downloads }}
-      {{ partial src="downloads__file"}}
-    {{ /if }}
-  <div>
-    {{ if images | count < 1 }}
+<div class="atelier__container">
+  <div
+    id="{{ title | dashify }}"
+    style="height:8rem;width:100%;"
+  >
+  </div>
+  <div class="flex w-100 flex-wrap" >
+    <div class="w-100 w-50-l tr-ns tl bg-white ph5">
+      <h3 class="f1">{{ title }} </h3>
+      <div class="f3">
+        {{ text }}
+        {{ if downloads }}
+        {{ partial src="downloads__file"}}
+        {{ /if }}
+        <div>
+          {{ if images | count < 1 }}
+          {{ else }}
+                  <div
+                    class="f4 link dim br1 ba ph3 pv2 mb2 dib black pointer js-modal"
+                    data-modal-prefix-class="simple"
+                    data-modal-text="{{ partial src=&quot;atelier__popup&quot; }}"
+                    data-modal-title="Foto's"
+                    data-modal-close-img="{{ theme:asset src='img/close.png' }}"
+                  >
+                    Bekijk de foto's
+                  </div>
+          {{ /if }}
 
-    {{ else }}
-    <div class="f4 link dim br1 ba ph3 pv2 mb2 dib black pointer js-modal"
-    data-modal-prefix-class="simple"
-    data-modal-text="{{ partial src=&quot;atelier__popup&quot; }}"
-    data-modal-title="Foto's"
-    data-modal-close-img="{{ theme:asset src='img/close.png' }}">
-        Bekijk de foto's
+        </div>
+      </div>
     </div>
-
-    {{ /if }}
-  </div>
-
-  </div>
-</div>
-<div class="w-100   w-40-l ph5-l">
-  {{ assets:images }}
-    {{ if first }}
+    <div class="w-100 w-50-l ph5-l">
+      {{ assets:images }}
+      {{ if first }}
       <div class="fl w-100 tc">
         <img
           src="{{ url }}"
@@ -37,7 +43,8 @@
           data-modal-close-img="{{ theme:asset src='img/close.png' }}"
         />
       </div>
-    {{ /if }}
-  {{ /assets:images }}
+      {{ /if }}
+      {{ /assets:images }}
+    </div>
+  </div>
 </div>
-

@@ -121,17 +121,15 @@ footer {
 
 }
 
-.ateliers__masonry { 
-  -moz-column-count:3;
-  -moz-column-gap: 3%;
-  -moz-column-width: 30%;
-  -webkit-column-count:3;
-  -webkit-column-gap: 3%;
-  -webkit-column-width: 30%;
-  column-count: 3;
-  column-gap: 3%;
-  column-width: 30%;
+.ateliers__container > div:nth-of-type(2) > .flex {
+  flex-direction: row-reverse;
 }
+
+.ateliers__container > div:nth-of-type(2) > .flex > div{
+  text-align: left;
+  
+}
+
 
 /* ATELIER - ADULTS */
 .adults__container {
