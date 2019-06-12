@@ -2,3 +2,6 @@ path: downloads
 url: downloads
 title: Downloads
 fieldset: assets_files
+assets:
+  a5flyer_kinderen_print.pdf:
+    text: 'Download de flyer voor dit atelier'
