@@ -89,7 +89,7 @@ atelier:
       </p>
       <p><strong>WANNEER?</strong> woe 13:05 - 16:40
       </p>
-    collection: true
+    collection: false
   -
     type: atelier
     title: 'Atelier: Volwassenen'
