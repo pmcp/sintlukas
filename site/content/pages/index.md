@@ -48,6 +48,8 @@ atelier:
   -
     type: atelier
     title: 'Atelier kinderen'
+    atelier__images:
+      - /assets/scan-8-1559744939.jpeg
     text: |
       <p> 6-12 jaar<br>
       </p>
@@ -87,7 +89,7 @@ atelier:
       </p>
       <p><strong>WANNEER?</strong> woe 13:05 - 16:40
       </p>
-    collection: false
+    collection: true
   -
     type: atelier
     title: 'Atelier: Volwassenen'
