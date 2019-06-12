@@ -10,7 +10,7 @@ sections:
         restrict_assets: false
         type: redactor
         display: Tekst
-      images:
+      atelier__images:
         container: main
         folder: /
         restrict: false
