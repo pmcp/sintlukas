@@ -114,6 +114,8 @@ inschrijvingen__text: |
   </p>
   <p>De Academie ligt op wandelafstand van het Brussel Noord station en is bereikbaar via tramlijnen T3, T4, T55, T25 , T94, M Rogier, M Kruidtuin. <br>
   </p>
+downloads:
+  - downloads/inclusive_toolkit_activities.pdf
 locations:
   -
     type: location
