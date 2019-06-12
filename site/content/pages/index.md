@@ -1199,7 +1199,7 @@ locations:
   -
     type: location
     text: |
-      <p><strong>Regenboog<br></strong>Ulensstraat 83<br>1080 Sint-Jans-Molenbeek
+      <p><strong>Regenboog </strong>(filiaal)<strong><br></strong>Ulensstraat 83<br>1080 Sint-Jans-Molenbeek
       </p>
     map:
       zoom: 10
