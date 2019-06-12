@@ -317,7 +317,7 @@ locations:
       zoom: '14'
       height: 400px
       width: 100%
-      address: 'Vandenbusschestraat 36, 1030 Schaarbeek'
+      address: 'Helmetsesteenweg 216, 1030 Schaarbeek'
       googleStyles: |
         [
             {
