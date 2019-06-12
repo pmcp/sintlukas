@@ -5,9 +5,11 @@ sections:
       title:
         display: Titel
         type: text
+        localizable: true
       text:
         restrict_assets: false
         type: redactor
         display: text
 taxonomies: true
 title: inschrijvingen
+hide: true
