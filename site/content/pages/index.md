@@ -833,7 +833,7 @@ locations:
   -
     type: location
     text: |
-      <p><strong>GC Nekkersdal<br></strong>Emile Bockstael Boulevard 107<br>1020 Brussel <strong></strong>
+      <p><strong>GC Nekkersdal </strong>(filiaal)<strong><br></strong>Emile Bockstael Boulevard 107<br>1020 Brussel <strong></strong>
       </p>
     map:
       zoom: 10
