@@ -286,8 +286,6 @@ locations:
     text: |
       <p><strong>Basisschool Champagnat en Basisschool Heilige Familie</strong><br>Helmetsesteenweg 216,<br>1030 Schaarbeek
       </p>
-      <p>Email: <a href="mailto:barbara.bredeschoolhelmet@gmail.com">barbara.bredeschoolhelmet@gmail.com</a><br>Tel: 02 242 66 28
-      </p>
     map:
       zoom: '14'
       height: 400px
@@ -470,8 +468,6 @@ locations:
     type: location
     text: |
       <p><strong>Boodschapinstituut</strong><br>Vandenbusschestraat 36,<br>1030 Schaarbeek
-      </p>
-      <p>Email: <a href="mailto:boodschap.schaarbeek@gmail.com">boodschap.schaarbeek@gmail.com</a><br>Tel: 02 241 73 87
       </p>
     map:
       zoom: '14'
