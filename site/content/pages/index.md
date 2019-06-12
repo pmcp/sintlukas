@@ -89,7 +89,7 @@ atelier:
     collection: false
   -
     type: atelier
-    title: 'Ateliers: Volwassenen'
+    title: 'Atelier: Volwassenen'
     collection: true
 locations:
   -
