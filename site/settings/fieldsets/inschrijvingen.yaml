@@ -2,6 +2,9 @@ sections:
   main:
     display: Main
     fields:
+      title:
+        display: Titel
+        type: text
       text:
         restrict_assets: false
         type: redactor
