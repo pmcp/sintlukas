@@ -273,7 +273,7 @@ locations:
       mapboxStyles: ''
       mapType: google
     text: |
-      <p><strong>Sint-Lukas Academie - Deeltijds Kunstonderwijs</strong><br>Groenstraat 156<br>1030 Brussel (Schaarbeek)
+      <p><strong>Sint-Lukas Academie - Deeltijds Kunstonderwijs (Hoofdschool)</strong><br>Groenstraat 156<br>1030 Brussel (Schaarbeek)
       </p>
       <p>email: <a href="mailto:academie@sintlukas.brussels">academie@sintlukas.brussels</a><br>tel: 022177700
       </p>
