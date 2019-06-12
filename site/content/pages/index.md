@@ -91,46 +91,28 @@ atelier:
     type: atelier
     title: 'Atelier: Volwassenen'
     collection: true
+inschrijvingen__title: 'inschrijvingen (tot 30 september)'
 inschrijvingen__text: |
-  <p> &lt;p&gt;In juli en augustus kan je een plaatsje reserveren per mail (&lt;a href="mailto:academie@sintlukas.brussels"&gt;academie@sintlukas.brussels&lt;/a&gt;).&lt;br&gt;In juni en september kan je inschrijven op het secretariaat (Groenstraat 156, 1030 Brussel) of per mail.&lt;br&gt;Openingsuren secretariaat: ma 08:40 - 21: 00, di 08:40 - 21:00, woe 08:40 - 17:00, do 08:40 - 21:00, vr 08:40 -17:00 uur.
+  <p>In juli en augustus kan je een plaatsje reserveren per mail (<a href="mailto:academie@sintlukas.brussels">academie@sintlukas.brussels</a>).<br>In juni en september kan je inschrijven op het secretariaat (Groenstraat 156, 1030 Brussel) of per mail.<br>Openingsuren secretariaat: ma 08:40 - 21: 00, di 08:40 - 21:00, woe 08:40 - 17:00, do 08:40 - 21:00, vr 08:40 -17:00 uur.
   </p>
-  <p>  &lt;/p&gt;
+  <p><strong><br></strong>
   </p>
-  <p>  &lt;p&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;
+  <p><strong>Inschrijvingsgelden</strong>
   </p>
-  <p>  &lt;/p&gt;
+  <p>6 - 17 jaar : 75 euro + 10 euro ateliergeld<br>*recht op vermindering of tweede kind: 45 euro + 10 euro ateliergeld
   </p>
-  <p>  &lt;p&gt;&lt;strong&gt;Inschrijvingsgelden&lt;/strong&gt;
+  
+  <p>18 - 24 jaar : 140 euro + 20 euro ateliergeld
   </p>
-  <p>  &lt;/p&gt;
+  <p>25+ : 330 euro + 35 euro ateliergeld<br>*recht op vermindering: 140 euro + 35 euro ateliergeld
   </p>
-  <p>  &lt;p&gt;6 - 17 jaar : 75 euro + 10 euro ateliergeld&lt;br&gt;*recht op vermindering of tweede kind: 45 euro + 10 euro ateliergeld
+  <p>Jouw inschrijving is bevestigd wanneer we het ingevuld inschrijvingsformulier en de betaling hebben ontvangen voor 25 september. <br>Je betaalt eerst het volledige tarief en wanneer wij het juiste document hebben ontvangen (per mail of op het secretariaat), waardoor je in aanmerking komt<br>voor het verminderd tarief, dan krijg je in de maand oktober het resterend bedrag terugbetaald.
   </p>
-  <p>  &lt;/p&gt;
+  <p>De lessen starten op 2 september 2019 en het schooljaar loopt tot 30 juni 2020. Het deeltijds kunstonderwijs volgt de vakantieperiodes van het secundair onderwijs.
   </p>
-  <p>  &lt;p&gt;18 - 24 jaar : 140 euro + 20 euro ateliergeld
+  <p>Met jouw inschrijving ga je akkoord met het academiereglement.
   </p>
-  <p>  &lt;/p&gt;
-  </p>
-  <p>  &lt;p&gt;25+ : 330 euro + 35 euro ateliergeld&lt;br&gt;*recht op vermindering: 140 euro + 35 euro ateliergeld
-  </p>
-  <p>  &lt;/p&gt;
-  </p>
-  <p>  &lt;p&gt;Jouw inschrijving is bevestigd wanneer we het ingevuld inschrijvingsformulier en de betaling hebben ontvangen voor 25 september. &lt;br&gt;Je betaalt eerst het volledige tarief en wanneer wij het juiste document hebben ontvangen (per mail of op het secretariaat), waardoor je in aanmerking komt&lt;br&gt;voor het verminderd tarief, dan krijg je in de maand oktober het resterend bedrag terugbetaald.
-  </p>
-  <p>  &lt;/p&gt;
-  </p>
-  <p>  &lt;p&gt;De lessen starten op 2 september 2019 en het schooljaar loopt tot 30 juni 2020. Het deeltijds kunstonderwijs volgt de vakantieperiodes van het secundair onderwijs.
-  </p>
-  <p>  &lt;/p&gt;
-  </p>
-  <p>  &lt;p&gt;Met jouw inschrijving ga je akkoord met het academiereglement.
-  </p>
-  <p>  &lt;/p&gt;
-  </p>
-  <p>  &lt;p&gt;De Academie ligt op wandelafstand van het Brussel Noord station en is bereikbaar via tramlijnen T3, T4, T55, T25 , T94, M Rogier, M Kruidtuin. &lt;br&gt;
-  </p>
-  <p>  &lt;/p&gt;
+  <p>De Academie ligt op wandelafstand van het Brussel Noord station en is bereikbaar via tramlijnen T3, T4, T55, T25 , T94, M Rogier, M Kruidtuin. <br>
   </p>
 locations:
   -
