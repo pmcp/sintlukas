@@ -10,7 +10,7 @@ sections:
         restrict_assets: false
         type: redactor
         display: text
-      downloads:
+      inschrijvingen__downloads:
         container: downloads
         folder: /
         restrict: false
