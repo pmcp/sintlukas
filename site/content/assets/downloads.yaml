@@ -2,6 +2,3 @@ path: downloads
 url: downloads
 title: Downloads
 fieldset: assets_files
-assets:
-  vue-essentials-cheat-sheet.pdf:
-    text: 'Dit is de tekst op de downloadknop'
