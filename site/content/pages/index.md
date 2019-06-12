@@ -866,7 +866,7 @@ locations:
       zoom: '14'
       height: 400px
       width: 100%
-      address: 'Ulensstraat 83 1080 Sint-Jans-Molenbeek​'
+      address: 'Emile Bockstael Boulevard 107 1020 Brussel'
       googleStyles: |
         [
             {
