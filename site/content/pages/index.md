@@ -680,7 +680,7 @@ locations:
       <p><strong>Basisschool Sint-Joost-aan- Zee</strong> (filiaal)<strong></strong><span class="redactor-invisible-space"></span><br>Grensstraat 67<br>1210 Sint-Joost-ten-Node
       </p>
     map:
-      zoom: 10
+      zoom: '14'
       height: 400px
       width: 100%
       address: 'Ulensstraat 83 1080 Sint-Jans-Molenbeek​'
@@ -863,7 +863,7 @@ locations:
       <p><strong>GC Nekkersdal </strong>(filiaal)<strong><br></strong>Emile Bockstael Boulevard 107<br>1020 Brussel <strong></strong>
       </p>
     map:
-      zoom: 10
+      zoom: '14'
       height: 400px
       width: 100%
       address: 'Ulensstraat 83 1080 Sint-Jans-Molenbeek​'
@@ -1046,7 +1046,7 @@ locations:
       <p><strong>Basisschool De Kriek / Paviljoenschool</strong> (filiaal)<strong></strong><br>François-Joseph Navez straat 59<br>1030 Schaarbeek
       </p>
     map:
-      zoom: 10
+      zoom: '14'
       height: 400px
       width: 100%
       address: 'Ulensstraat 83 1080 Sint-Jans-Molenbeek​'
@@ -1229,7 +1229,7 @@ locations:
       <p><strong>Regenboog </strong>(filiaal)<strong><br></strong>Ulensstraat 83<br>1080 Sint-Jans-Molenbeek
       </p>
     map:
-      zoom: 10
+      zoom: '14'
       height: 400px
       width: 100%
       address: 'Ulensstraat 83 1080 Sint-Jans-Molenbeek​'
