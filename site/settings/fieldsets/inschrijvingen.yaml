@@ -10,12 +10,6 @@ sections:
         restrict_assets: false
         type: redactor
         display: text
-      inschrijvingen__downloads:
-        container: downloads
-        folder: /
-        restrict: false
-        type: assets
-        display: Downloads
       inschrijvingen__image:
         container: main
         folder: /
@@ -23,6 +17,12 @@ sections:
         max_files: 1
         type: assets
         display: Afbeelding
+      inschrijvingen__downloads:
+        container: downloads
+        folder: /
+        restrict: false
+        type: assets
+        display: Downloads
 taxonomies: true
 title: inschrijvingen
 hide: true
