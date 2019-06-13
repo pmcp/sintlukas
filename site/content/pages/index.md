@@ -1,32 +1,53 @@
 grid_items:
   -
     type: grid_image
-    column-start: 4
-    row-start: 3
+    column-start: 24
+    row-start: 1
     row-end: 18
     column-end: 18
     image: /assets/grid/gif_yellow_noraster.gif
   -
     type: grid_image
-    column-start: 36
+    column-start: 15
     row-start: 14
-    row-end: 8
-    column-end: 8
+    row-end: 12
+    column-end: 15
+    image: /assets/grid/site_beelden4.png
+  -
+    type: grid_image
+    column-start: 7
+    row-start: 15
+    row-end: 6
+    column-end: 6
     image: /assets/grid/8.snake.gif
   -
     type: grid_image
-    column-start: 1
+    column-start: 20
     row-start: 1
     row-end: 6
     column-end: 6
     image: /assets/grid/marble.gif
   -
     type: grid_image
-    column-start: 30
-    row-start: 2
+    column-start: 12
+    row-start: 11
     row-end: 5
     column-end: 13
     image: /assets/grid/grow.gif
+  -
+    type: grid_image
+    column-start: 2
+    row-start: 3
+    row-end: 19
+    column-end: 10
+    image: /assets/grid/site_beelden.png
+  -
+    type: grid_image
+    column-start: 13
+    row-start: 3
+    row-end: 5
+    column-end: 3
+    image: /assets/grid/site_beelden3.png
 about__text: |
   <p>De Sint-Lukasacademie is een instelling van het deeltijds kunstonderwijs (DKO). We richten ons op kinderen (6 tot 12 jaar), jongeren (12 tot 18 jaar) en volwassenen (18+) die in hun vrije tijd de mogelijkheden van de beeldende kunsten willen verkennen. Wij bieden u, geheel naar onze unieke pedagogie, een kwalitatief onderwijs op maat in zowel creatieve als kunstbeschouwelijke opleidingen.
   </p>
@@ -49,7 +70,16 @@ atelier:
     type: atelier
     title: 'Atelier kinderen'
     atelier__images:
-      - /assets/scan-8-1559744939.jpeg
+      - /assets/d86db6e9-12ae-4e8d-971b-f9e3cacce20e-home.jpeg
+      - /assets/Atelier_Kinderen/41527405_2192183304376059_604176313703464960_n.jpg
+      - /assets/Atelier_Kinderen/41552608_2192182331042823_8162194181901516800_n.jpg
+      - /assets/Atelier_Kinderen/41589723_2192182174376172_313921839724232704_n.jpg
+      - /assets/Atelier_Kinderen/48404950_2254887848105604_6152949459392135168_n.jpg
+      - /assets/Atelier_Kinderen/48413255_2254887524772303_5079530969120112640_n.jpg
+      - /assets/Atelier_Kinderen/48413516_2254887781438944_2271188494355267584_n.jpg
+      - /assets/Atelier_Kinderen/55882395_2321394404788281_1680825547095015424_n.jpg
+      - /assets/Atelier_Kinderen/55916183_2321394701454918_2493183336567013376_n.jpg
+      - /assets/Atelier_Kinderen/55798278_2321394181454970_5554218133427847168_n.jpg
     text: |
       <p> 6-12 jaar<br>
       </p>
@@ -70,7 +100,13 @@ atelier:
     type: atelier
     title: 'Atelier jongeren'
     atelier__images:
-      - /assets/jongeren.jpeg
+      - /assets/dd1de33b-66bf-407a-9b4f-d8a8a7921948-home.jpeg
+      - /assets/fotos_jongeren/41547363_2192182284376161_8371878629935677440_n.jpg
+      - /assets/fotos_jongeren/46495754_2233736330220756_8947683287329931264_n.jpg
+      - /assets/fotos_jongeren/52599422_2294786940782361_5795686396014362624_n.jpg
+      - /assets/fotos_jongeren/52744526_2296967950564260_4656286771305250816_n.jpg
+      - /assets/fotos_jongeren/53155160_2296967783897610_6864277772542410752_n.jpg
+      - /assets/fotos_jongeren/53206782_2296967753897613_1344236351746211840_n.jpg
     text: |
       <p> 12-18 jaar
       </p>
@@ -119,6 +155,7 @@ inschrijvingen__text: |
   </p>
   <p>De Academie ligt op wandelafstand van het Brussel Noord station en is bereikbaar via tramlijnen T3, T4, T55, T25 , T94, M Rogier, M Kruidtuin. <br>
   </p>
+inschrijvingen__image: /assets/62363785_2372099349742204_2840611779535437824_n.jpg
 locations:
   -
     type: location

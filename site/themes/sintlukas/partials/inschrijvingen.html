@@ -1,5 +1,17 @@
 <h2>{{ inschrijvingen__title }}</h2>
- {{ inschrijvingen__text}}
- {{ if inschrijvingen__downloads }}
-  {{ partial src="inschrijvingen__downloads"}}
- {{ /if }}
+<div class="flex">
+  {{ assets:inschrijvingen__image }}
+  <div
+    class="w-100 w-40-ns mr5"
+    style="background:url({{url}})"
+  >
+    {{ /assets:inschrijvingen__image }}
+  </div>
+  <div class="w-100 w-60-ns">
+
+    {{ inschrijvingen__text}}
+    {{ if inschrijvingen__downloads }}
+    {{ partial src="inschrijvingen__downloads"}}
+    {{ /if }}
+  </div>
+</div>

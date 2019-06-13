@@ -10,6 +10,13 @@ sections:
         restrict_assets: false
         type: redactor
         display: text
+      inschrijvingen__image:
+        container: main
+        folder: /
+        restrict: false
+        max_files: 1
+        type: assets
+        display: Afbeelding
       inschrijvingen__downloads:
         container: downloads
         folder: /
