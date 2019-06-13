@@ -22,16 +22,16 @@
       <h2 class="mt5 ph5 pv1">Opleidingen</h2>
     </div>
         
-    <div class="flex w-100 justify-between pb3">
-      <div>
+    <div class="flex w-100 pb3 flex-wrap">
+      
         {{ atelier }}
           <a
-            class="link black dib mr3 bg-white ph5 pv2 atelier__nav"
+            class="w-auto-ns w-100 tc link black dib ma3 bg-white ph5 pv2 atelier__nav"
             href="/#{{ title | dashify }}"
             title="{{ title }}"
           >{{ title }}</a>
         {{ /atelier }}
-      </div>
+      
       
     </div>
     <div class="ateliers__container">
@@ -54,8 +54,8 @@
   <div id="contact" style="height:8rem;width:100%;"></div>
   <footer class="pa4 pa5-l flex bg-white w-100  center">
       
-    <div class="w-100 center">
-        <h2 class="mt5 pv1 w-100 pa5">Contact</h2>      
+    <div class="w-80 center">
+        <h2 class="mt5 pv1 w-100 pa5 pl0">Contact</h2>      
       
       {{ partial src="footer"}}
     </div>
