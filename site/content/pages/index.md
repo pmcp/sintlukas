@@ -70,7 +70,7 @@ atelier:
     type: atelier
     title: 'Atelier kinderen'
     atelier__images:
-      - /assets/scan-8-1559744939.jpeg
+      - /assets/d86db6e9-12ae-4e8d-971b-f9e3cacce20e-home.jpeg
     text: |
       <p> 6-12 jaar<br>
       </p>
@@ -91,7 +91,7 @@ atelier:
     type: atelier
     title: 'Atelier jongeren'
     atelier__images:
-      - /assets/jongeren.jpeg
+      - /assets/dd1de33b-66bf-407a-9b4f-d8a8a7921948-home.jpeg
     text: |
       <p> 12-18 jaar
       </p>
