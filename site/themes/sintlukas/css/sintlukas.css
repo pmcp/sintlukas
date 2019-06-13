@@ -84,8 +84,8 @@ nav {
 
 .nav__logo {
   height: 6rem;
-  position: absolute;
   z-index: 2000;
+  top: 10px;
 }
 
 /* GRID */
@@ -156,6 +156,7 @@ footer {
   background-color: white;
   transform-origin: 0 0;
   transform: rotate(90deg);
+  white-space: nowrap;
 }
 
 .adults__container p {
