@@ -101,6 +101,12 @@ atelier:
     title: 'Atelier jongeren'
     atelier__images:
       - /assets/dd1de33b-66bf-407a-9b4f-d8a8a7921948-home.jpeg
+      - /assets/fotos_jongeren/41547363_2192182284376161_8371878629935677440_n.jpg
+      - /assets/fotos_jongeren/46495754_2233736330220756_8947683287329931264_n.jpg
+      - /assets/fotos_jongeren/52599422_2294786940782361_5795686396014362624_n.jpg
+      - /assets/fotos_jongeren/52744526_2296967950564260_4656286771305250816_n.jpg
+      - /assets/fotos_jongeren/53155160_2296967783897610_6864277772542410752_n.jpg
+      - /assets/fotos_jongeren/53206782_2296967753897613_1344236351746211840_n.jpg
     text: |
       <p> 12-18 jaar
       </p>
