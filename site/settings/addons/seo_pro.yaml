@@ -5,14 +5,14 @@ sitemap_enabled: true
 sitemap_url: sitemap.xml
 sitemap_cache_length: 60
 defaults:
-  title: '@seo:title'
   site_name: 'Sint Lukas Academie Brussel'
   site_name_position: none
   site_name_separator: '|'
+  title: '@seo:title'
   description: 'De academie voor kinderen, jongeren en volwassenen in hartje Brussel'
-  image: /assets/62363785_2372099349742204_2840611779535437824_n.jpg
   priority: '0.5'
   change_frequency: monthly
+  image: /assets/62363785_2372099349742204_2840611779535437824_n.jpg
 humans:
   enabled: true
   content: |
@@ -25,9 +25,9 @@ humans:
     /* THANKS */
     
     Statamic: https://statamic.com
+    Friendly Internet: https://friendlyintern.net
     
     /* SITE */
     
     Standards: HTML5, CSS3
     Components: Statamic 2, Laravel, PHP, JavaScript
-    
