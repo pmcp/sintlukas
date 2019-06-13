@@ -84,8 +84,8 @@ nav {
 
 .nav__logo {
   height: 6rem;
-  position: absolute;
   z-index: 2000;
+  top: 10px;
 }
 
 /* GRID */
