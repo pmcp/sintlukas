@@ -156,6 +156,9 @@ inschrijvingen__text: |
   <p>De Academie ligt op wandelafstand van het Brussel Noord station en is bereikbaar via tramlijnen T3, T4, T55, T25 , T94, M Rogier, M Kruidtuin. <br>
   </p>
 inschrijvingen__image: /assets/62363785_2372099349742204_2840611779535437824_n.jpg
+inschrijvingen__downloads:
+  - downloads/a5flyer_kinderen_print.pdf
+  - downloads/st_lukas_1920_digitaal.pdf
 locations:
   -
     type: location
