@@ -10,7 +10,7 @@ defaults:
   site_name_position: none
   site_name_separator: '|'
   description: '@seo:text'
-  image: /assets/62363785_2372099349742204_2840611779535437824_n.jpg
+  image: /assets/fb.jpg
   priority: '0.5'
   change_frequency: monthly
 humans:
