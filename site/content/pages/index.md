@@ -71,6 +71,15 @@ atelier:
     title: 'Atelier kinderen'
     atelier__images:
       - /assets/d86db6e9-12ae-4e8d-971b-f9e3cacce20e-home.jpeg
+      - /assets/Atelier_Kinderen/41527405_2192183304376059_604176313703464960_n.jpg
+      - /assets/Atelier_Kinderen/41552608_2192182331042823_8162194181901516800_n.jpg
+      - /assets/Atelier_Kinderen/41589723_2192182174376172_313921839724232704_n.jpg
+      - /assets/Atelier_Kinderen/48404950_2254887848105604_6152949459392135168_n.jpg
+      - /assets/Atelier_Kinderen/48413255_2254887524772303_5079530969120112640_n.jpg
+      - /assets/Atelier_Kinderen/48413516_2254887781438944_2271188494355267584_n.jpg
+      - /assets/Atelier_Kinderen/55882395_2321394404788281_1680825547095015424_n.jpg
+      - /assets/Atelier_Kinderen/55916183_2321394701454918_2493183336567013376_n.jpg
+      - /assets/Atelier_Kinderen/55798278_2321394181454970_5554218133427847168_n.jpg
     text: |
       <p> 6-12 jaar<br>
       </p>
