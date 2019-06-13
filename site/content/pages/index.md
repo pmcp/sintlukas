@@ -159,6 +159,7 @@ inschrijvingen__image: /assets/62363785_2372099349742204_2840611779535437824_n.j
 inschrijvingen__downloads:
   - downloads/a5flyer_kinderen_print.pdf
   - downloads/st_lukas_1920_digitaal.pdf
+  - downloads/nieuwinschrijvingsformulier.pdf
 locations:
   -
     type: location
