@@ -1,0 +1,15 @@
+/* TEAM */
+
+Creator: Sint Lukas Academie Brussel
+URL: 
+Description: De academie voor kinderen, jongeren en volwassenen in hartje Brussel
+
+/* THANKS */
+
+Statamic: https://statamic.com
+Friendly Internet: https://friendlyintern.net
+
+/* SITE */
+
+Standards: HTML5, CSS3
+Components: Statamic 2, Laravel, PHP, JavaScript
