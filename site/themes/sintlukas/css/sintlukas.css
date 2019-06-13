@@ -82,6 +82,12 @@ nav {
   width: 2.2rem;
 }
 
+.nav__logo {
+  height: 6rem;
+  position: absolute;
+  z-index: 2000;
+}
+
 /* GRID */
 header {
   width: 100%;
