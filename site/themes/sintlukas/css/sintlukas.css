@@ -120,6 +120,15 @@ footer {
   z-index: 400;
 }
 
+.footer__logo {
+  margin-top: 16rem;
+  margin-bottom: 8rem;
+  height: auto;
+  width: 10vw;
+  min-width: 200px;
+}
+
+
 /* ATELIERS */
 
 .atelier__nav {
