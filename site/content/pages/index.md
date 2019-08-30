@@ -1,11 +1,11 @@
 grid_items:
   -
     type: grid_image
-    column-start: 24
-    row-start: 1
-    row-end: 18
-    column-end: 18
-    image: /assets/grid/gif_yellow_noraster.gif
+    column-start: 19
+    row-start: 2
+    row-end: 23
+    column-end: 23
+    image: /assets/grid/site_openatelier_gif.gif
   -
     type: grid_image
     column-start: 15
@@ -22,10 +22,10 @@ grid_items:
     image: /assets/grid/8.snake.gif
   -
     type: grid_image
-    column-start: 20
-    row-start: 1
-    row-end: 6
-    column-end: 6
+    column-start: 32
+    row-start: 11
+    row-end: 12
+    column-end: 12
     image: /assets/grid/marble.gif
   -
     type: grid_image
