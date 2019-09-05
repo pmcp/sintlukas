@@ -2,8 +2,8 @@ grid_items:
   -
     type: grid_image
     column-start: 19
-    row-start: 2
-    row-end: 23
+    row-start: 1
+    row-end: 19
     column-end: 23
     image: /assets/grid/site_openatelier_gif.gif
   -
