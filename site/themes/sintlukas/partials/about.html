@@ -53,6 +53,14 @@
       <div class="fl w-100-ns w-third-l w-100-m pr3-l">
         <div class="lh-copy f3 pt0-l mt0 mb3 center pa3">
           {{ about__text }}
+          {{ if downloads }}
+        {{ assets:downloads }}
+        <a
+          href="{{ url }}" download class="f4 link dim br1 ba ph3 pv2 mb2 dib black">
+          {{ text }}
+        </a>
+        {{ /assets:downloads }}
+        {{ /if }}
         </div>
       </div>
     {{ /assets:about__images }}
