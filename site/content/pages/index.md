@@ -65,6 +65,9 @@ about__images:
   - '/assets/fotos Tom Janssens/sintlukas_tomjanssens_36_1.jpg'
   - '/assets/fotos Tom Janssens/sintlukas_tomjanssens_32_1.jpg'
   - '/assets/fotos Tom Janssens/sintlukas_tomjanssens_25_1.jpg'
+downloads:
+  - downloads/a5flyer_kinderen_print.pdf
+  - downloads/nieuwinschrijvingsformulier.pdf
 atelier:
   -
     type: atelier
