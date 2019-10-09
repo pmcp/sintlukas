@@ -13,6 +13,12 @@ sections:
         type: assets
         display: images
         mode: grid
+      downloads:
+        container: downloads
+        folder: /
+        restrict: true
+        type: assets
+        display: Downloads
 taxonomies: true
 hide: true
 title: About
