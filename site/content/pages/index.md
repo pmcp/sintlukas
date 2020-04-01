@@ -41,6 +41,14 @@ grid_items:
     row-end: 19
     column-end: 10
     image: /assets/grid/site_beelden.png
+  -
+    type: grid_text
+    column-start: 1
+    row-start: 1
+    row-end: 1
+    column-end: 43
+    text: 'Om de verspreiding van het Corona virus tegen te gaan, heeft de Nationale Veiligheidsraad beslist de lessen te schorsen tot en met 19 april. Er is geen opvang voorzien op de school. De academie blijft per mail bereikbaar.'
+    color: '#ffff00'
 about__text: |
   <p>De Sint-Lukasacademie is een instelling van het deeltijds kunstonderwijs (DKO). We richten ons op kinderen (6 tot 12 jaar), jongeren (12 tot 18 jaar) en volwassenen (18+) die in hun vrije tijd de mogelijkheden van de beeldende kunsten willen verkennen. Wij bieden u, geheel naar onze unieke pedagogie, een kwalitatief onderwijs op maat in zowel creatieve als kunstbeschouwelijke opleidingen.
   </p>
