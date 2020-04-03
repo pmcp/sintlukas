@@ -1,4 +1,5 @@
-<div class="grid__container">
+<div class="grid__container" style="margin-top:0">
+  
   {{ grid_items }}
     <div class="grid__item" style="grid-area:{{row-start}}/{{column-start}}/span {{row-end}}/span {{column-end}};">
       {{ if type == "grid_image" }}
@@ -8,4 +9,5 @@
       {{ /if }}
     </div>
   {{ /grid_items }}
+
 </div>
