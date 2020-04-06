@@ -76,6 +76,23 @@ atelier:
       - /assets/Atelier_Kinderen/55882395_2321394404788281_1680825547095015424_n.jpg
       - /assets/Atelier_Kinderen/55916183_2321394701454918_2493183336567013376_n.jpg
       - /assets/Atelier_Kinderen/55798278_2321394181454970_5554218133427847168_n.jpg
+      - /assets/1website_20190912_164507.jpg
+      - /assets/1website_20190919_162944.jpg
+      - /assets/1website_20191112_172903.jpg
+      - /assets/1website_20200107_173119.jpg
+      - /assets/1website_91060605_206899957265698_4261236379498840064_n.jpg
+      - /assets/1website_91279532_1278668078991154_5736801041471504384_n.jpg
+      - /assets/1website_91298479_506999163318155_4064100996974903296_n.jpg
+      - /assets/1website_91493859_201431851282734_7181621266682478592_n.jpg
+      - /assets/1website_91854893_218510455907783_1571365269014577152_n.jpg
+      - /assets/1website_91866457_2288936921408899_3469433977087983616_n.jpg
+      - /assets/1website_img_5236.jpg
+      - /assets/1website_img_5339.jpg
+      - /assets/1website_img_5904.jpg
+      - /assets/1website_img_6946.jpg
+      - /assets/1website_img_8190.jpg
+      - /assets/1website_img_20190516_162350.jpg
+      - /assets/1website_img_20190523_175923.jpg
     text: |
       <p> 6-12 jaar<br>
       </p>
