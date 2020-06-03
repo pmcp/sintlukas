@@ -154,7 +154,8 @@ atelier:
       - downloads/st_lukas_1920_digitaal.pdf
 inschrijvingen__title: 'Inschrijvingen (tot 30 september)'
 inschrijvingen__text: |
-  <p>Je kan een plaatsje reserveren via dit online formulier: <a class="typeform-share link" href="https://friendlyinternet.typeform.com/to/Z2U4Ad" data-mode="drawer_right" data-hide-headers="true" data-hide-footer="true" target="_blank">Inschrijvingsformulier </a>(function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })()
+  <p>Je kan een plaatsje reserveren via dit online formulier:<a class="typeform-share link" href="https://friendlyinternet.typeform.com/to/Z2U4Ad" data-mode="drawer_right" style="" data-hide-headers=true data-hide-footer=true target="_blank">Inschrijvingsformulier </a> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
+  </p>
   <p><br>In september kan je je ook inschrijven op het secretariaat (Groenstraat 156, 1030 Brussel).<br>Openingsuren secretariaat: ma 08:40 - 21: 00, di 08:40 - 21:00, woe 08:40 - 17:00, do 08:40 - 21:00, vr 08:40 -17:00 uur.
   </p>
   <p><strong><br></strong>
@@ -172,7 +173,7 @@ inschrijvingen__text: |
   <p>Met jouw inschrijving ga je akkoord met het academiereglement.
   </p>
   <p>
-  De lessen starten op 1 september 2020 en het schooljaar loopt tot 30 juni 2021. Het deeltijds kunstonderwijs volgt de vakantieperiodes van het secundair onderwijs. 
+  	De lessen starten op 1 september 2020 en het schooljaar loopt tot 30 juni 2021. Het deeltijds kunstonderwijs volgt de vakantieperiodes van het secundair onderwijs.
   </p>
   <p>De Academie ligt op wandelafstand van het Brussel Noord station en is bereikbaar via tramlijnen T3, T4, T55, T25 , T94, M Rogier, M Kruidtuin. <br>
   </p>
