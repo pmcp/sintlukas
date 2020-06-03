@@ -72,7 +72,7 @@ atelier:
        wo 13.30 - 15.20 / do 15:50 - 17:30
       </p>
     downloads:
-      - downloads/a5flyer_kinderen_print.pdf
+      - downloads/afspraken_eerste_graad_boekje_web.pdf
     collection: false
   -
     type: atelier
