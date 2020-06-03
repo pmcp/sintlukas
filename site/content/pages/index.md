@@ -112,22 +112,21 @@ atelier:
       - downloads/st_lukas_1920_digitaal.pdf
 inschrijvingen__title: 'Inschrijvingen (tot 30 september)'
 inschrijvingen__text: |
-  <p>In juli en augustus kan je een plaatsje reserveren via dit online formulier: <a class="typeform-share link" href="https://friendlyinternet.typeform.com/to/Z2U4Ad" data-mode="drawer_right"  data-hide-headers=true data-hide-footer=true target="_blank">Inschrijvingsformulier </a> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script>
+  <p>In juli en augustus kan je een plaatsje reserveren via dit online formulier: <a class="typeform-share link" href="https://friendlyinternet.typeform.com/to/Z2U4Ad" data-mode="drawer_right" data-hide-headers="true" data-hide-footer="true" target="_blank">Inschrijvingsformulier </a>
+  </p> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })()
   <p><br>In juni en september kan je inschrijven op het secretariaat (Groenstraat 156, 1030 Brussel) of per mail.<br>Openingsuren secretariaat: ma 08:40 - 21: 00, di 08:40 - 21:00, woe 08:40 - 17:00, do 08:40 - 21:00, vr 08:40 -17:00 uur.
   </p>
   <p><strong><br></strong>
   </p>
   <p><strong>Inschrijvingsgelden</strong>
   </p>
-  <p>6 - 17 jaar : 75 euro + 10 euro ateliergeld<br>*recht op vermindering of tweede kind: 45 euro + 10 euro ateliergeld
+  <p>6 - 17 jaar : 85 euro<br>*recht op vermindering of tweede kind: 55 euro
   </p>
-  <p>18 - 24 jaar : 140 euro + 20 euro ateliergeld
+  <p>18 - 24 jaar : 175 euro
   </p>
-  <p>25+ : 330 euro + 35 euro ateliergeld<br>*recht op vermindering: 140 euro + 35 euro ateliergeld
+  <p>25+ : 365 euro<br>*recht op vermindering: 175 euro<br>
   </p>
-  <p>Jouw inschrijving is bevestigd wanneer we het ingevuld inschrijvingsformulier en de betaling hebben ontvangen voor 25 september. <br>Je betaalt eerst het volledige tarief en wanneer wij het juiste document hebben ontvangen (per mail of op het secretariaat), waardoor je in aanmerking komt<br>voor het verminderd tarief, dan krijg je in de maand oktober het resterend bedrag terugbetaald.
-  </p>
-  <p>De lessen starten op 2 september 2019 en het schooljaar loopt tot 30 juni 2020. Het deeltijds kunstonderwijs volgt de vakantieperiodes van het secundair onderwijs.
+  <p>Jouw inschrijving is bevestigd wanneer we het ingevuld inschrijvingsformulier en de betaling hebben ontvangen voor 25 september. <br>Je betaalt eerst het volledige tarief en wanneer we je inschrijving ontvangen, waardoor je in aanmerking komt<br>voor het verminderd tarief, dan krijg je in de maand oktober het resterend bedrag terugbetaald.
   </p>
   <p>Met jouw inschrijving ga je akkoord met het academiereglement.
   </p>
