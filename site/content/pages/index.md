@@ -30,7 +30,7 @@ grid_items:
   -
     type: grid_image
     column-start: 32
-    row-start: 2
+    row-start: 5
     row-end: 10
     column-end: 10
     image: /assets/grid/web-20-21_tekstje.png
