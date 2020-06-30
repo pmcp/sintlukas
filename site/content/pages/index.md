@@ -179,9 +179,8 @@ inschrijvingen__text: |
   </p>
 inschrijvingen__image: /assets/sla-20-21-patroon_test.png
 inschrijvingen__downloads:
-  - downloads/nieuwinschrijvingsformulier.pdf
-  - downloads/a5flyer_kinderen_print.pdf
-  - downloads/st_lukas_1920_digitaal.pdf
+  - downloads/folder-20-21-sla_online.pdf
+  - downloads/afspraken_eerste_graad_boekje_web.pdf
 locations:
   -
     type: location
