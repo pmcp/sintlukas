@@ -68,6 +68,7 @@ about__images:
 downloads:
   - downloads/20190600_academiereglement.pdf
   - downloads/20190000_gedeeldapp.pdf
+  - downloads/20202021_kalender_dko.pdf
 atelier:
   -
     type: atelier
