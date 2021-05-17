@@ -188,6 +188,7 @@ inschrijvingen__image: /assets/sla-20-21-patroon_test.png
 inschrijvingen__downloads:
   - downloads/folder-20-21-sla_online.pdf
   - downloads/afspraken_eerste_graad_boekje_web.pdf
+  - downloads/lijstvermindering.pdf
 locations:
   -
     type: location
