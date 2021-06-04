@@ -8,3 +8,4 @@ sections:
         localizable: true
 taxonomies: true
 title: Team
+hide: true
