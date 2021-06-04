@@ -6,16 +6,16 @@ sections:
         display: 'Sectie Titel'
         type: text
         localizable: true
-      team_members:
-        type: replicator
-        display: Teamleden
+      team_replicator:
         sets:
-          teammemmber:
-            display: Teamlid
+          set_1:
+            display: 'Set 1'
             fields:
-              teammember:
+              Member:
                 type: partial
-                display: Teamlid
+                display: Lid
+        type: replicator
+        display: team
 taxonomies: true
 title: Team
 hide: true
