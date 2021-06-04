@@ -1474,7 +1474,13 @@ team_members:
   -
     type: set_1
     member_movie: 'https://vimeo.com/271765903'
-    team_description: aeadfasdf
+    team_description: |
+      aeadfasdf
+      ad
+      fa
+      sdfa
+      sdf
+      asf
   -
     type: set_1
     member_movie: 'https://vimeo.com/271765903'
