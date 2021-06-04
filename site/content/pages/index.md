@@ -1470,6 +1470,23 @@ locations:
       mapboxStyles: ''
       mapType: google
 team_title: 'Wie is wie'
+team_members:
+  -
+    type: set_1
+    member_movie: 'https://vimeo.com/271765903'
+    team_description: aeadfasdf
+  -
+    type: set_1
+    member_movie: 'https://vimeo.com/271765903'
+    team_description: wrwr
+  -
+    type: set_1
+    member_movie: 'https://vimeo.com/271765903'
+    team_description: asdfasdfa
+  -
+    type: set_1
+    member_movie: 'https://vimeo.com/271765903'
+    team_description: adfasdf
 title: 'Sint Lukas Academie Brussel'
 text: |
   <p>In juli en augustus kan je een plaatsje reserveren per mail (<a href="mailto:academie@sintlukas.brussels">academie@sintlukas.brussels</a>).<br>In juni en september kan je inschrijven op het secretariaat (Groenstraat 156, 1030 Brussel) of per mail.<br>Openingsuren secretariaat: ma 08:40 - 21: 00, di 08:40 - 21:00, woe 08:40 - 17:00, do 08:40 - 21:00, vr 08:40 -17:00 uur.
