@@ -55,5 +55,12 @@ sections:
         fieldset: footer
         type: partial
         display: Contact
+  wie_is_wie:
+    display: 'Wie is wie'
+    fields:
+      team:
+        fieldset: team
+        type: partial
+        display: 'Team lid'
 taxonomies: true
 title: 'Sint Lukas Academie Brussel'

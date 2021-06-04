@@ -5,7 +5,7 @@
         {{ if first }}<img class=&quot;db w-100 pa3&quot; src=&quot;{{ url }}&quot; />{{ /if }}{{ /assets:images }}</div><div class=&quot;fl pl4 w-100 w-50-l f3 &quot;>{{ text }}<div>{{ if downloads }}{{ partial src=&quot;downloads__file&quot;}}{{ /if }}<div class=&quot; w-100 &quot;>{{ if images | length > 1}}{{ partial src=&quot;adults__images&quot;}}{{ /if }} </div></div></div>"
       data-modal-title="{{ title }}"
       data-modal-close-img="{{ theme:asset src='img/close.png' }}"
->
+>  
   <h3 class="adults__title--rotate pa1"> {{ title }}</h3>
   {{ assets:images }}
     {{ if first }}

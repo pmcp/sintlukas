@@ -60,6 +60,13 @@
     {{ partial src="inschrijvingen" }}
   </section>
 
+{{ if team_members }}
+<div id="wieiswie" style="height:8rem;width:100%;"></div>
+<section class="pa4 pa5-l bg-white w-80 f3 center">
+  {{ partial src="team" }}
+</section>
+{{ /if }}
+
   <div id="contact" style="height:8rem;width:100%;"></div>
   <footer class="pa4 pa5-l flex bg-white w-100  center">
       
