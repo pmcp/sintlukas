@@ -2,8 +2,9 @@ sections:
   main:
     display: Main
     fields:
-      title:
-        display: Title
+      team_title:
+        display: 'Sectie Titel'
         type: text
+        localizable: true
 taxonomies: true
 title: Team
