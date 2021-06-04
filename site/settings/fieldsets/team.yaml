@@ -9,6 +9,16 @@ sections:
       team_members:
         type: replicator
         display: 'Team Leden'
+        sets:
+          set_1:
+            display: 'Set 1'
+            fields:
+              member_movie:
+                type: video
+                display: Video
+              team_description:
+                type: textarea
+                display: Beschrijving
 taxonomies: true
 title: Team
 hide: true
