@@ -6,12 +6,16 @@ sections:
         display: 'Sectie Titel'
         type: text
         localizable: true
+      team_text:
+        display: 'Sectie Uitleg'
+        type: text
+        localizable: true
       team_members:
         type: replicator
         display: 'Team Leden'
         sets:
           set_1:
-            display: 'Set 1'
+            display: 'Team Lid'
             fields:
               member_movie:
                 type: video

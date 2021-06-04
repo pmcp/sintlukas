@@ -58,7 +58,8 @@ sections:
   wie_is_wie:
     display: 'Wie is wie'
     fields:
-      team_member:
+      team:
+        fieldset: team
         type: partial
         display: 'Team lid'
 taxonomies: true
