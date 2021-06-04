@@ -1470,6 +1470,7 @@ locations:
       mapboxStyles: ''
       mapType: google
 team_title: 'Wie is wie'
+team_text: 'uitleg voor dezer sevcdfa'
 team_members:
   -
     type: set_1
