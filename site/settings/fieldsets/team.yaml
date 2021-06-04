@@ -1,0 +1,9 @@
+sections:
+  main:
+    display: Main
+    fields:
+      title:
+        display: Title
+        type: text
+taxonomies: true
+title: Team
