@@ -740,13 +740,14 @@ locations:
   -
     type: location
     text: |
-      <p><strong>Basisschool Sint-Joost-aan- Zee</strong> (filiaal)<strong></strong><span class="redactor-invisible-space"></span><br>Grensstraat 67<br>1210 Sint-Joost-ten-Node
+      <strong>Aximax</strong><br>J.W. Wilsonstraat 19<br>
+      <p>1000 Brussel<br>
       </p>
     map:
       zoom: '14'
       height: 400px
       width: 100%
-      address: 'Grensstraat 67 1210 Sint-Joost-ten-Node'
+      address: 'Rue John Waterloo Wilson 19, 1000 Bruxelles'
       googleStyles: |
         [
             {
