@@ -740,8 +740,7 @@ locations:
   -
     type: location
     text: |
-      <strong>Aximax</strong><br>J.W. Wilsonstraat 19<br>
-      <p>1000 Brussel<br>
+      <p><strong>Aximax</strong><br>J.W. Wilsonstraat 19<br>1000 Brussel<br>
       </p>
     map:
       zoom: '14'
