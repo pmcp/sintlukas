@@ -20,9 +20,13 @@ sections:
               member_movie:
                 type: video
                 display: Video
-              team_description:
+              team_name:
                 type: textarea
-                display: Beschrijving
+                display: Naam
+              team_description:
+                restrict_assets: false
+                type: redactor
+                display: Beschrijvingd
 taxonomies: true
 title: Team
 hide: true
