@@ -1471,7 +1471,6 @@ locations:
       mapboxStyles: ''
       mapType: google
 team_title: 'Wie is wie'
-team_text: 'uitleg voor deze sectie'
 team_members:
   -
     type: set_1
