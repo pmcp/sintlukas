@@ -1475,39 +1475,41 @@ team_members:
   -
     type: set_1
     member_movie: 'https://vimeo.com/566597930'
-    team_description: |
-      Bart Van Overberghe
-      Zeefdruk & Levend Model
+    team_description: '<em>Zeefdruk & Levend Model</em>'
+    team_name: 'Bart Van Overberghe'
   -
     type: set_1
     member_movie: 'https://vimeo.com/566599055'
     team_description: |
-      Anne De Boeck
-      Grafisch Ontwerp
+      <p><em>Grafisch Ontwerp</em>
+      </p>
+    team_name: 'Anne De Boeck'
   -
     type: set_1
     member_movie: 'https://vimeo.com/566598988'
     team_description: |
-      Ann Gewillig
-      Fotokunst
+      <p><em>Fotokunst</em>
+      </p>
+    team_name: 'Ann Gewillig'
   -
     type: set_1
     member_movie: 'https://vimeo.com/566598600'
-    team_description: |
-      Pjotr Cornelis
-      Levend Model
+    team_description: '<em>Levend Model</em>'
+    team_name: 'Pjotr Cornelis'
   -
     type: set_1
     member_movie: 'https://vimeo.com/566598209'
     team_description: |
-      Chiara Lammens
-      Tekenkunst & Beeldatelier Kinderen
+      <p><em>Tekenkunst & Beeldatelier Kinderen</em>
+      </p>
+    team_name: 'Chiara Lammens'
   -
     type: set_1
     member_movie: 'https://vimeo.com/566598385'
     team_description: |
-      Liesbet Grupping
-      Fotokunst
+      <p><em>Fotokunst</em>
+      </p>
+    team_name: 'Liesbet Grupping'
 title: 'Sint Lukas Academie Brussel'
 text: |
   <p>In juli en augustus kan je een plaatsje reserveren per mail (<a href="mailto:academie@sintlukas.brussels">academie@sintlukas.brussels</a>).<br>In juni en september kan je inschrijven op het secretariaat (Groenstraat 156, 1030 Brussel) of per mail.<br>Openingsuren secretariaat: ma 08:40 - 21: 00, di 08:40 - 21:00, woe 08:40 - 17:00, do 08:40 - 21:00, vr 08:40 -17:00 uur.
