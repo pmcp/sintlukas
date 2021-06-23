@@ -1480,16 +1480,12 @@ team_members:
   -
     type: set_1
     member_movie: 'https://vimeo.com/566599055'
-    team_description: |
-      <p><em>Grafisch Ontwerp</em>
-      </p>
+    team_description: '<em>Grafisch Ontwerp</em>'
     team_name: 'Anne De Boeck'
   -
     type: set_1
     member_movie: 'https://vimeo.com/566598988'
-    team_description: |
-      <p><em>Grafisch Ontwerp</em>
-      </p>
+    team_description: '<em>Grafisch Ontwerp</em>'
     team_name: 'Ann Gewillig'
   -
     type: set_1
@@ -1499,16 +1495,12 @@ team_members:
   -
     type: set_1
     member_movie: 'https://vimeo.com/566598209'
-    team_description: |
-      <p><em>Tekenkunst & Beeldatelier Kinderen</em>
-      </p>
+    team_description: '<em>Tekenkunst & Beeldatelier Kinderen</em>'
     team_name: 'Chiara Lammens'
   -
     type: set_1
     member_movie: 'https://vimeo.com/566598385'
-    team_description: |
-      <p><em>Fotokunst</em>
-      </p>
+    team_description: '<em>Fotokunst</em>'
     team_name: 'Liesbet Grupping'
 title: 'Sint Lukas Academie Brussel'
 text: |
