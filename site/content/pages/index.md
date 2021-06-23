@@ -1488,9 +1488,7 @@ team_members:
     type: set_1
     member_movie: 'https://vimeo.com/566598988'
     team_description: |
-      <p><br>
-      </p>
-      <p>afasdf<br>
+      <p><em>Grafisch Ontwerp</em>
       </p>
     team_name: 'Ann Gewillig'
   -
