@@ -26,7 +26,7 @@ sections:
               team_description:
                 restrict_assets: false
                 type: redactor
-                display: Beschrijvingd
+                display: Beschrijving
 taxonomies: true
 title: Team
 hide: true
