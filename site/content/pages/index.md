@@ -66,9 +66,9 @@ about__images:
   - '/assets/fotos Tom Janssens/sintlukas_tomjanssens_32_1.jpg'
   - '/assets/fotos Tom Janssens/sintlukas_tomjanssens_25_1.jpg'
 downloads:
+  - downloads/kalenderschooljaar21-22-1624453572.pdf
   - downloads/20190600_academiereglement.pdf
   - downloads/20190000_gedeeldapp.pdf
-  - downloads/20202021_kalender_dko.pdf
 atelier:
   -
     type: atelier
