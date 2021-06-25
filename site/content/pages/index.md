@@ -101,6 +101,23 @@ atelier:
       - /assets/1website_img_8190.jpg
       - /assets/1website_img_20190516_162350.jpg
       - /assets/1website_img_20190523_175923.jpg
+      - /assets/1website_20191210_164426_001.jpg
+      - /assets/1website_20200120_161546.jpg
+      - /assets/20191209_164931.jpg
+      - /assets/20191209_164937.jpg
+      - /assets/20191209_165812.jpg
+      - /assets/20191209_165815.jpg
+      - /assets/20191209_165842.jpg
+      - /assets/20200302_173247.jpg
+      - /assets/img_2938.JPG
+      - /assets/img_2945.JPG
+      - /assets/img_4746.jpg
+      - /assets/img_5055.jpg
+      - /assets/img_5080.jpg
+      - /assets/img_5231.jpg
+      - /assets/img_5328.jpg
+      - /assets/img_5510.jpg
+      - /assets/img_20190108_165034-(2).jpg
     text: |
       <p> 6-12 jaar<br>
       </p>
