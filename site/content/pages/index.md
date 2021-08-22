@@ -169,7 +169,7 @@ atelier:
     title: 'Atelier: Volwassenen'
     collection: true
     downloads:
-      - downloads/st_lukas_1920_digitaal.pdf
+      - downloads/folder-21-22-sla_online.pdf
 inschrijvingen__title: 'Inschrijvingen (tot 30 september)'
 inschrijvingen__text: |
   <p>Je kan een plaatsje reserveren via dit online formulier: <a class="typeform-share link" href="https://sintlukasform.netlify.app" data-mode="drawer_right" data-hide-headers="true" data-hide-footer="true" target="_blank">Inschrijvingsformulier</a><br>Vous pouvez réserver une place à ce formulaire: <a href="https://sintlukasform.netlify.app" target="_blank">Formulaire d'inscription</a><br>You can reserve a spot using this online form: <a href="https://sintlukasform.netlify.app" target="_blank">Registration form</a>
