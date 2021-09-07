@@ -3,10 +3,10 @@
     <h2 class="mt5 ph5 pv1">{{ title }}</h2>
     <div class="flex w-100 pb3 flex-wrap">
 
-        {{ assets:downloads scope="downloads" }}
+        {{ assets:downloads  }}
         <a download class="w-auto-ns w-100 tc link black dib ma3 bg-white ph5 pv2 atelier__nav"
-                href="{{ url }}"
-                title="{{ text }}">{{ text }}</a>
+                href="{{ assets:downloads:url }}"
+                title="{{ assets:downloads:text }}">{{ text }}</a>
         {{ /assets:downloads }}
 
 
