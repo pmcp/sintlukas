@@ -131,8 +131,11 @@ atelier:
       <p><strong>WANNEER?</strong> ma 15.50 -17.30 / di 15.50 - 17.30
        wo 13.30 - 15.20 / do 15:50 - 17:30
       </p>
+      <p><br>
+      </p>
     downloads:
       - downloads/afspraken_eerste_graad_boekje_web.pdf
+      - downloads/cleanshot-2021-09-07-at-09.12.35-2x.png
     collection: false
   -
     type: atelier
