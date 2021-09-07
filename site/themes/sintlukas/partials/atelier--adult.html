@@ -1,13 +1,20 @@
 <div id="{{ title | dashify }}" style="height:8rem;width:100%;"></div>
 <section class="w-100">
     <h2 class="mt5 ph5 pv1">{{ title }}</h2>
-    <div>
+    <div class="flex w-100 pb3 flex-wrap">
+
         {{ assets:downloads }}
-        <a href="{{ url }}" download class="f4 link dim br1 ba ph3 pv2 mb2 dib black pointer">
-            {{ text }}
-        </a>
+        <a
+                download class="f4 link dim br1 ba ph3 pv2 mb2 dib black pointer"
+                href="{{ url }}"
+                title="{{ text }}"
+        >{{ text }}</a>
         {{ /assets:downloads }}
+
+
     </div>
+
+
     <div class="flex flex-wrap items-center center ">
       {{ collection from="atelier_adults" }}
         <div class=" w-third-l w-100 pa5 pointer grow">
