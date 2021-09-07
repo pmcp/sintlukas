@@ -135,7 +135,7 @@ atelier:
       </p>
     downloads:
       - downloads/afspraken_eerste_graad_boekje_web.pdf
-      - downloads/cleanshot-2021-09-07-at-09.12.35-2x.png
+      - downloads/planningKinderen.png
     collection: false
   -
     type: atelier
@@ -173,7 +173,7 @@ atelier:
     collection: true
     downloads:
       - downloads/folder-21-22-sla_online.pdf
-      - downloads/screenshot-2021-09-07-at-09-16-37-stlukasform.png
+      - downloads/planningVolwassenen.png
 inschrijvingen__title: 'Inschrijvingen (tot 30 september)'
 inschrijvingen__text: |
   <p>Je kan een plaatsje reserveren via dit online formulier: <a class="typeform-share link" href="https://sintlukasform.netlify.app" data-mode="drawer_right" data-hide-headers="true" data-hide-footer="true" target="_blank">Inschrijvingsformulier</a><br>Vous pouvez réserver une place à ce formulaire: <a href="https://sintlukasform.netlify.app" target="_blank">Formulaire d'inscription</a><br>You can reserve a spot using this online form: <a href="https://sintlukasform.netlify.app" target="_blank">Registration form</a>
