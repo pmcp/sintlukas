@@ -195,7 +195,9 @@ inschrijvingen__text: |
   <p>
   	De lessen starten op 1 september 2020 en het schooljaar loopt tot 30 juni 2021. Het deeltijds kunstonderwijs volgt de vakantieperiodes van het secundair onderwijs.
   </p>
-  <p>De Academie ligt op wandelafstand van het Brussel Noord station en is bereikbaar via tramlijnen T3, T4, T55, T25 , T94, M Rogier, M Kruidtuin. <br>
+  <p>De Academie ligt op wandelafstand van het Brussel Noord station en is bereikbaar via tramlijnen T3, T4, T55, T25 , T94, M Rogier, M Kruidtuin.
+  </p>
+  <p><br><br>
   </p>
 inschrijvingen__image: /assets/sla-20-21-patroon_test.png
 inschrijvingen__downloads:
@@ -203,6 +205,7 @@ inschrijvingen__downloads:
   - downloads/afspraken_eerste_graad_boekje_web.pdf
   - downloads/lijstvermindering.pdf
   - downloads/folder-21-22-sla_online.pdf
+  - downloads/lessenrooster-21-22.pdf
 locations:
   -
     type: location
