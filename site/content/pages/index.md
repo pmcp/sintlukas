@@ -137,6 +137,7 @@ atelier:
     downloads:
       - downloads/afspraken_eerste_graad_boekje_web.pdf
       - downloads/planningKinderen.png
+      - downloads/lessenrooster-21-22.pdf
     collection: false
   -
     type: atelier
@@ -168,6 +169,8 @@ atelier:
       <p><strong>WANNEER?</strong> woe 13:05 - 16:40
       </p>
     collection: false
+    downloads:
+      - downloads/lessenrooster-21-22.pdf
   -
     type: atelier
     title: 'Atelier: Volwassenen'
