@@ -1319,13 +1319,13 @@ locations:
   -
     type: location
     text: |
-      <p><strong>Sint-Albertschool </strong>(filiaal)<strong><br></strong>Haeckstraat 61/1<br>1080 Sint-Jans-Molenbeek
+      <p><strong>Sint-Albertschool </strong>(filiaal)<strong><br></strong>Haeckstraat 61<br>1080 Sint-Jans-Molenbeek
       </p>
     map:
       zoom: '14'
       height: 400px
       width: 100%
-      address: 'Haeckstraat 61/1 1080 Sint-Jans-Molenbeek​'
+      address: 'Haeckstraat 61 1080 Sint-Jans-Molenbeek​'
       googleStyles: |
         [
             {
