@@ -204,7 +204,7 @@ inschrijvingen__text: |
   </p>
   <p><br><br>
   </p>
-inschrijvingen__image: /assets/sla-20-21-patroon_test.png
+inschrijvingen__image: /assets/patroon_algemeen.png
 inschrijvingen__downloads:
   - downloads/kalenderschooljaar21-22-1624453572.pdf
   - downloads/afspraken_eerste_graad_boekje_web.pdf
