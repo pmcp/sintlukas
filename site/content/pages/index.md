@@ -187,11 +187,12 @@ inschrijvingen__text: |
   </p>
   <p><strong>Inschrijvingsgelden</strong>
   </p>
-  <p>6 - 17 jaar : 85 euro<br>*recht op vermindering of tweede kind: 55 euro
+  <p>6 - 17 jaar : 85 euro (vanaf 6 juli: 90 euro)<br>*recht op vermindering of tweede kind: 55 euro (vanaf 6 juli: 60 euro)
   </p>
   <p>18 - 24 jaar : 175 euro
+  (vanaf 6 juli: 190 euro)
   </p>
-  <p>25+ : 365 euro<br>*recht op vermindering: 175 euro<br>
+  <p>25+ : 365 euro (vanaf 6 juli: 400 euro)<br>*recht op vermindering: 175 euro (vanaf 6 juli: 190 euro)<br>
   </p>
   <p>Jouw inschrijving is bevestigd wanneer we het ingevuld inschrijvingsformulier en de betaling hebben ontvangen voor 25 september. <br>Je betaalt eerst het volledige tarief en wanneer we je inschrijving ontvangen, waardoor je in aanmerking komt<br>voor het verminderd tarief, dan krijg je in de maand oktober het resterend bedrag terugbetaald.
   </p>
