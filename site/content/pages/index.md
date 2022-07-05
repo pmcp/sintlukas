@@ -207,10 +207,10 @@ inschrijvingen__text: |
   </p>
 inschrijvingen__image: /assets/patroon_algemeen.png
 inschrijvingen__downloads:
-  - downloads/kalenderschooljaar21-22-1624453572.pdf
   - downloads/afspraken_eerste_graad_boekje_web.pdf
   - downloads/lijstvermindering.pdf
   - downloads/lessenrooster-21-22.pdf
+  - downloads/20202021_kalender_dko.pdf
 locations:
   -
     type: location
