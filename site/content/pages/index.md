@@ -170,7 +170,7 @@ atelier:
       </p>
     collection: false
     downloads:
-      - downloads/lessenrooster-21-22.pdf
+      - downloads/lessenrooster-22-23.pdf
   -
     type: atelier
     title: 'Atelier: Volwassenen'
