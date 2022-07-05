@@ -68,8 +68,8 @@ about__images:
 downloads:
   - downloads/20190600_academiereglement.pdf
   - downloads/20190000_gedeeldapp.pdf
-  - downloads/folder-21-22-sla_online.pdf
   - downloads/lessenrooster-21-22.pdf
+  - downloads/lessenrooster-22-23.pdf
 atelier:
   -
     type: atelier
