@@ -137,7 +137,7 @@ atelier:
     downloads:
       - downloads/afspraken_eerste_graad_boekje_web.pdf
       - downloads/planningKinderen.png
-      - downloads/lessenrooster-21-22.pdf
+      - downloads/lessenrooster-22-23.pdf
     collection: false
   -
     type: atelier
