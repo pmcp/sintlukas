@@ -185,23 +185,60 @@ inschrijvingen__text: |
   </p>
   <p><br>In september kan je je ook inschrijven op het secretariaat (Groenstraat 156, 1030 Brussel).<br>Openingsuren secretariaat: ma 08:40 - 21: 00, di 08:40 - 21:00, woe 08:40 - 17:00, do 08:40 - 21:00, vr 08:40 -17:00 uur.
   </p>
-  <p><strong>Inschrijvingsgelden</strong>
-  </p>
-  <p>6 - 17 jaar : 85 euro (vanaf 6 juli: 90 euro)<br>*recht op vermindering of tweede kind: 55 euro (vanaf 6 juli: 60 euro)
-  </p>
-  <p>18 - 24 jaar : 175 euro
-  (vanaf 6 juli: 190 euro)
-  </p>
-  <p>25+ : 365 euro (vanaf 6 juli: 400 euro)<br>*recht op vermindering: 175 euro (vanaf 6 juli: 190 euro)<br>
-  </p>
-  <p>Jouw inschrijving is bevestigd wanneer we het ingevuld inschrijvingsformulier en de betaling hebben ontvangen voor 25 september. <br>Je betaalt eerst het volledige tarief en wanneer we je inschrijving ontvangen, waardoor je in aanmerking komt<br>voor het verminderd tarief, dan krijg je in de maand oktober het resterend bedrag terugbetaald.
-  </p>
-  <p>Met jouw inschrijving ga je akkoord met het academiereglement.
+  <p>
+  	<br>
   </p>
   <p>
-  	De lessen starten op 1 september en het schooljaar loopt tot 30 juni. Het deeltijds kunstonderwijs volgt de vakantieperiodes van het secundair onderwijs.
+  	<strong>Inschrijvingsgelden</strong>
   </p>
-  <p>De Academie ligt op wandelafstand van het Brussel Noord station en is bereikbaar via tramlijnen T3, T4, T55, T25 , T94, M Rogier, M Kruidtuin.
+  <p>
+  	6 - 17 jaar : 95 euro (vanaf 6 juni: 100 euro)<br>
+  	<strong>*recht op vermindering of tweede kind</strong>: 60 euro (vanaf 6 juni: 65 euro)
+  </p>
+  <p>
+  	18 - 24 jaar : 185 euro (vanaf 6 juni: 200 euro)
+  </p>
+  <p>
+  	25+ : 390 euro (vanaf 6 juni: 420 euro)<br>
+  </p>
+  <p>
+  	<strong>*recht op vermindering:  1</strong>85 euro (vanaf 6 juni: 200 euro)<br>
+  </p>
+  <p><br>
+  </p>
+  <p>
+  	Jouw inschrijving is bevestigd wanneer we het ingevuld inschrijvingsformulier en de betaling hebben ontvangen voor 25 september. <strong>Opgelet: wanneer een atelier volzet is, telt de datum van betaling voor de
+   volgorde van de inschrijving!
+  	</strong><br>
+  </p>
+  <p>
+  	Je betaalt eerst het volledige tarief en wanneer we je inschrijving ontvangen, waardoor je in aanmerking komt<br>
+  	voor het verminderd tarief, dan krijg je in de maand oktober het resterend bedrag terugbetaald.
+  </p>
+  <p>
+  	<br>
+  </p>
+  <p>
+  	<strong>Je kan je voor 30 september op het onthaal uitschrijven en dan krijg 
+  je jouw inschrijvingsgeld terug - administratieve kost (5 euro). 
+  	</strong>
+  </p>
+  <p>
+  	<strong>Na 30 september kan je je uitschrijven, maar dan kunnen wij het inschrijvingsgeld niet meer terugstorten. </strong>
+  </p>
+  <p><br>
+  </p>
+  <p>
+  	Met jouw inschrijving ga je akkoord met het academiereglement.
+  </p>
+  <p>
+  	De lessen starten op 1 september en het schooljaar loopt tot 30 juni. 
+  Het deeltijds kunstonderwijs volgt de vakantieperiodes van het secundair
+   onderwijs.
+  </p>
+  <p>
+  	De Academie ligt op wandelafstand van het Brussel Noord station en is 
+  bereikbaar via tramlijnen T3, T4, T55, T25 , T94, M Rogier, M Kruidtuin.
   </p>
   <p><br><br>
   </p>
