@@ -181,66 +181,9 @@ atelier:
       - downloads/algemenebrochure.pdf
 inschrijvingen__title: 'Inschrijvingen (tot 30 september)'
 inschrijvingen__text: |
-  <p>Je kan een plaatsje reserveren via dit online formulier: <a class="typeform-share link" href="https://sintlukasform.netlify.app" data-mode="drawer_right" data-hide-headers="true" data-hide-footer="true" target="_blank">Inschrijvingsformulier</a><br>Vous pouvez réserver une place à ce formulaire: <a href="https://sintlukasform.netlify.app" target="_blank">Formulaire d'inscription</a><br>You can reserve a spot using this online form: <a href="https://sintlukasform.netlify.app" target="_blank">Registration form</a>
+  <p>De inschrijvingen voor volgend schooljaar zijn gestart<br><br>Dit jaar werken we met een nieuw platform : 'mijnacademie'.Heel wat academie's gebruiken dit platform al voor de inschrijvingen.<br>Inschrijven via <a href="https://mijnacademie.be/sintlukasschaarbeek" title="">deze link</a>!<br><a href="https://mijnacademie.be/sintlukasschaarbeek" title="">mijnACADEMIE&trade;</a><br>mijnACADEMIE - mijn digitale verbinding met de academie!<br><a href="http://mijnacademie.be" title="">mijnacademie.be</a><br><br>Breng ons zeker op de hoogte als het niet lukt of als er problemen zijn.<br><br><strong>We helpen je graag verder zowel telefonisch of op het onthaal (02 217 77 00 maandag-, dinsdag- en donderdagavond van 17:00 - 20:30) tot en met 30 juni en vanaf 23 augusus, of per mail (<a href="mailto:info.academie@sintlukas.brussels" title="">info.academie@sintlukas.brussels</a>).</strong><br><strong>Via het platform kan de ouder volgend schooljaar ook het fiscaal attest opvragen. Zo ontvang je jouw fiscaal voordeel voor de kinderateliers.</strong><br><br>Je kan meteen bij jouw inschrijving online betalen via verschillende betaalopties. Ook dat is nieuw dit jaar!<br>Wanneer een atelier volzet is, telt de datum van betaling voor de volgorde van inschrijving.<br><br>Wacht dus zeker niet te lang om in te schrijven of om hulp te vragen bij het inschrijven.<br><br>In bijlage nog eens het uurrooster voor volgend schooljaar. Mijnacademie maakt op basis van jouw inschrijving van dit jaar een logisch vervolg.Wil je echter veranderen van richting/optie? Dan moet je ons een mailtje sturen of langskomen op het onthaal!<br><br>Les inscriptions pour la prochaine année scolaire ont commencé !
   </p>
-  <p><br>In september kan je je ook inschrijven op het secretariaat (Groenstraat 156, 1030 Brussel).<br>Openingsuren secretariaat: ma 08:40 - 21: 00, di 08:40 - 21:00, woe 08:40 - 17:00, do 08:40 - 21:00, vr 08:40 -17:00 uur.
-  </p>
-  <p>
-  	<br>
-  </p>
-  <p>
-  	<strong>Inschrijvingsgelden</strong>
-  </p>
-  <p>
-  	6 - 17 jaar : 95 euro (vanaf 6 juni: 100 euro)<br>
-  	<strong>*recht op vermindering of tweede kind</strong>: 60 euro (vanaf 6 juni: 65 euro)
-  </p>
-  <p>
-  	18 - 24 jaar : 185 euro (vanaf 6 juni: 200 euro)
-  </p>
-  <p>
-  	25+ : 390 euro (vanaf 6 juni: 420 euro)<br>
-  </p>
-  <p>
-  	<strong>*recht op vermindering:  1</strong>85 euro (vanaf 6 juni: 200 euro)<br>
-  </p>
-  <p><br>
-  </p>
-  <p>
-  	Jouw inschrijving is bevestigd wanneer we het ingevuld inschrijvingsformulier en de betaling hebben ontvangen voor 25 september. <strong>Opgelet: wanneer een atelier volzet is, telt de datum van betaling voor de
-   volgorde van de inschrijving!
-  	</strong><br>
-  </p>
-  <p>
-  	Je betaalt eerst het volledige tarief en wanneer we je inschrijving ontvangen, waardoor je in aanmerking komt<br>
-  	voor het verminderd tarief, dan krijg je in de maand oktober het resterend bedrag terugbetaald.
-  </p>
-  <p>
-  	<br>
-  </p>
-  <p>
-  	<strong>Je kan je voor 30 september op het onthaal uitschrijven en dan krijg 
-  je jouw inschrijvingsgeld terug - administratieve kost (5 euro). 
-  	</strong>
-  </p>
-  <p>
-  	<strong>Na 30 september kan je je uitschrijven, maar dan kunnen wij het inschrijvingsgeld niet meer terugstorten. </strong>
-  </p>
-  <p><br>
-  </p>
-  <p>
-  	Met jouw inschrijving ga je akkoord met het academiereglement.
-  </p>
-  <p>
-  	De lessen starten op 1 september en het schooljaar loopt tot 30 juni. 
-  Het deeltijds kunstonderwijs volgt de vakantieperiodes van het secundair
-   onderwijs.
-  </p>
-  <p>
-  	De Academie ligt op wandelafstand van het Brussel Noord station en is 
-  bereikbaar via tramlijnen T3, T4, T55, T25 , T94, M Rogier, M Kruidtuin.
-  </p>
-  <p><br><br>
+  <p><br>Cette année nous travaillons avec une nouvelle plateforme : '<a href="https://mijnacademie.be/sintlukasschaarbeek" title="">mijnacademie</a>’.De nombreuses académies utilisent déjà cette plateforme pour les inscriptions.<br><a href="https://mijnacademie.be/sintlukasschaarbeek" title="">mijnACADEMIE&trade;</a><br>mijnACADEMIE - mijn digitale verbinding met de academie!<br><a href="http://mijnacademie.be" title="">mijnacademie.be</a>.<br>Assurez-vous de nous faire savoir si cela ne fonctionne pas ou s'il y a des problèmes.<br><br><strong>Nous sommes heureux de vous aider par téléphone ou à la réception (02 217 77 00 les lundis, mardis et jeudis soirs de 17h00 à 20h30) jusqu'a 30/06 ou de 22/08 ou par e-mail (<a href="mailto:info.academie@sintlukas.brussels" title="">info.academie@sintlukas.brussels</a>).</strong><br><strong><br></strong>Le(s) parent(s) peut(vent) également demander l'attestation fiscale de la rentrée prochaine via la plateforme. C'est ainsi que vous bénéficiez de votre avantage fiscal pour les studios d'enfants.<br><br>Vous pouvez payer en ligne immédiatement avec votre inscription via différentes options de paiement. C'est aussi nouveau cette année !<br>Lorsqu'un atelier est complet, la date de paiement compte pour l'ordre d'inscription!<br><br>Alors n'attendez pas trop longtemps pour vous inscrire ou demandez de l'aide pour vous inscrire.<br><br>Ci-joint le programme de la rentrée prochaine. Mijnacademie fait une suite logique en fonction de votre inscription cette année.Cependant, souhaitez-vous changer de direction/d'option ? Ensuite, vous devez nous envoyer un e-mail ou venir à la réception !<br><br>Registrations for next school year have started!<br><br>This year we are working with a new platform : '<a href="https://mijnacademie.be/sintlukasschaarbeek" title="">mijnacademie</a>'.Many academies already use this platform for registrations.<br>So it will be easier for some students to register.<br><br>Hopefully we don't experience too many problems. Be sure to let us know if it doesn't work or if there are any problems.<br><strong>We are happy to help you by telephone or at reception (02 217 77 00 Monday, Tuesday and Thursday evenings from 5:00 pm - 8:30 pm) until 30/06 or from 22/08 or by email (<a href="mailto:info.academie@sintlukas.brussels" title="">info.academie@sintlukas.brussels</a>).</strong><br>The parents can also request the tax certificate next school year via the platform. This is how you receive your tax benefit for the children's studios.<br><br>You can pay online immediately with your registration via various payment options. That is also new this year!<br>When an option is full, the date of payment counts for the order of registration.<br><br>So don't wait too long to register or ask for help with registering.<br><br>Attached is the schedule for next school year. Mijnacademie makes a logical follow-up based on your registration this year.However, do you want to change direction/option? Then you have to send us an email or come by the reception!
   </p>
 inschrijvingen__image: /assets/patroon_algemeen.png
 inschrijvingen__downloads:
