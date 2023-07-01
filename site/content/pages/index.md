@@ -190,7 +190,7 @@ inschrijvingen__downloads:
   - downloads/afspraken_eerste_graad_boekje_web.pdf
   - downloads/lijstvermindering.pdf
   - downloads/lessenrooster-21-22.pdf
-  - downloads/20202021_kalender_dko.pdf
+  - downloads/20232024_kalenderdko_.pdf
 locations:
   -
     type: location
