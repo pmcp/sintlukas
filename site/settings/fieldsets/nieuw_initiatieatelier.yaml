@@ -15,5 +15,6 @@ sections:
         restrict: false
         type: assets
         display: Banner
-taxonomies: false
+taxonomies: true
 title: 'Nieuw: Initiatieatelier'
+hide: true
