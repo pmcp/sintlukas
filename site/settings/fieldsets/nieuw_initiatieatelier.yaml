@@ -5,6 +5,7 @@ sections:
       title:
         display: Title
         type: text
+        localizable: true
       text:
         type: textarea
         display: Text
@@ -14,5 +15,5 @@ sections:
         restrict: false
         type: assets
         display: Banner
-taxonomies: true
+taxonomies: false
 title: 'Nieuw: Initiatieatelier'
