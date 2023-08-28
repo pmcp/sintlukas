@@ -173,17 +173,20 @@ atelier:
       </p>
       <p><strong>WANNEER?</strong> woe 13:05 - 16:40
       </p>
+      <p><strong>WAAR?</strong> Groenstraat 156<br>
+      </p>
     collection: false
     downloads:
-      - downloads/lessenrooster-22-23.pdf
+      - downloads/20232024_kalenderdko_-1693234697.pdf
+      - downloads/lessenrooster-23-24-1693234701.pdf
+      - downloads/folder-jongeren-99x210-3luik-zigzag-20220908.pdf
   -
     type: atelier
     title: 'Atelier: Volwassenen'
     collection: true
     downloads:
-      - downloads/planningVolwassenen.png
-      - downloads/lessenrooster-22-23.pdf
-      - downloads/algemenebrochure.pdf
+      - downloads/20232024_kalenderdko_-1693234925.pdf
+      - downloads/lessenrooster-23-24-1693234929.pdf
 inschrijvingen__title: 'Inschrijvingen (tot 30 september)'
 inschrijvingen__text: |
   <p><strong><strong>Inschrijvingsgelden<br></strong></strong>
