@@ -129,10 +129,15 @@ atelier:
       Je wordt geprikkeld om te doen, te experimenteren en prikkels al
       spelend om te zetten in sprekende beelden!
       </p>
+      <p><strong>NIEUW vanaf 2023!</strong> Audivovisueel atelier! Hou je van fotografie, film, animatie, stopmotion en soundscapes? Dan krijg je in dit atelier naast tekenen, boetseren en schilderen ook audiovisuele technieken aangeboden!
+      </p>
+      <p>Voor kinderen vanaf 8 tot 11 jaar!
+      </p>
       <p><strong>WANNEER?</strong> ma 15.50 -17.30 / di 15.50 - 17.30
        wo 13.30 - 15.20 / do 15:50 - 17:30
+      op verschillende locaties.
       </p>
-      <p><br>
+      <p>Meer info in verband met de planning en de locatie? info.academie@sintlukas.brussels of 02/217 77 00<span class="redactor-invisible-space"></span><br>
       </p>
     downloads:
       - downloads/afspraken_eerste_graad_boekje_web.pdf
