@@ -141,8 +141,8 @@ atelier:
       </p>
     downloads:
       - downloads/afspraken_eerste_graad_boekje_web.pdf
-      - downloads/planningKinderen.png
-      - downloads/lessenrooster-22-23.pdf
+      - downloads/20232024_kalenderdko_-1693234477.pdf
+      - downloads/lessenrooster-23-24-1693234481.pdf
     collection: false
   -
     type: atelier
