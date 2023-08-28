@@ -67,9 +67,9 @@ about__images:
   - '/assets/fotos Tom Janssens/sintlukas_tomjanssens_25_1.jpg'
 downloads:
   - downloads/20190600_academiereglement.pdf
-  - downloads/20190000_gedeeldapp.pdf
   - downloads/lessenrooster-21-22.pdf
   - downloads/lessenrooster-22-23.pdf
+  - downloads/20230000_gedeeldapp.pdf
 atelier:
   -
     type: atelier
