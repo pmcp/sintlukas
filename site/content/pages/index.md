@@ -68,8 +68,8 @@ about__images:
 downloads:
   - downloads/20190600_academiereglement.pdf
   - downloads/20230000_gedeeldapp.pdf
-  - downloads/20232024_kalenderdko_-1693234001.pdf
   - downloads/lessenrooster-23-24.pdf
+  - downloads/20232024_kalenderdko.pdf
 atelier:
   -
     type: atelier
@@ -140,9 +140,9 @@ atelier:
       <p>Meer info in verband met de planning en de locatie? info.academie@sintlukas.brussels of 02/217 77 00<span class="redactor-invisible-space"></span><br>
       </p>
     downloads:
-      - downloads/afspraken_eerste_graad_boekje_web.pdf
-      - downloads/20232024_kalenderdko_-1693234477.pdf
       - downloads/lessenrooster-23-24-1693234481.pdf
+      - downloads/20232024_kalenderdko.pdf
+      - downloads/afspraken_eerste_graad_boekje_web.pdf
     collection: false
   -
     type: atelier
@@ -207,9 +207,9 @@ inschrijvingen__image: /assets/patroon_algemeen.png
 inschrijvingen__downloads:
   - downloads/afspraken_eerste_graad_boekje_web.pdf
   - downloads/lijstvermindering.pdf
-  - downloads/20232024_kalenderdko_.pdf
   - downloads/lessenrooster23-24.pdf
   - downloads/folder-jongeren-99x210-3luik-zigzag-20220908.pdf
+  - downloads/20232024_kalenderdko.pdf
 locations:
   -
     type: location
