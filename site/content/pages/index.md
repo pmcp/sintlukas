@@ -67,6 +67,7 @@ downloads:
   - downloads/20190600_academiereglement.pdf
   - downloads/lessenrooster-23-24.pdf
   - downloads/20232024_kalenderdko.pdf
+  - downloads/2023-2025_sintlukasacademie_artistiekpedagogischproject.pdf
 atelier:
   -
     type: atelier
