@@ -64,8 +64,8 @@ about__images:
   - '/assets/fotos Tom Janssens/sintlukas_tomjanssens_32_1.jpg'
   - '/assets/fotos Tom Janssens/sintlukas_tomjanssens_25_1.jpg'
 downloads:
+  - downloads/2023-2025_sintlukasacademei_artistiekpedagogischproject.pdf
   - downloads/20190600_academiereglement.pdf
-  - downloads/20230000_gedeeldapp.pdf
   - downloads/lessenrooster-23-24.pdf
   - downloads/20232024_kalenderdko.pdf
 atelier:
