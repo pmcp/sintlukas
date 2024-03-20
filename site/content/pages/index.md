@@ -51,9 +51,7 @@ grid_items:
 about__text: |
   <p>De Sint-Lukasacademie is een instelling van het deeltijds kunstonderwijs (DKO). We richten ons op kinderen (6 tot 12 jaar), jongeren (12 tot 18 jaar) en volwassenen (18+) die in hun vrije tijd de mogelijkheden van de beeldende kunsten willen verkennen. Wij bieden, geheel naar onze unieke pedagogie, kwalitatief onderwijs op maat in zowel artistieke als kunstbeschouwelijke opleidingen.
   </p>
-  <p>Na het beëindigen van een opleiding in de vierde graad kan je onder toelatingsvoorwaarden nog twee jaar verder specialiseren in de gekozen optie. In deze kortlopende specialisatie staat het persoonlijk artistiek project centraal. <br>
-  </p>
-  <p>De academie deelt de volledig gerenoveerde site met de Basisschool Sint-Lukas en de Sint-Lukas Kunsthumaniora en bevindt zich naast de Hogeschool LUCA School of Arts. De school fungeert als ontmoetingsplaats tussen verschillende leeftijden, culturen, disciplines en artistieke processen binnen de lokale en internationale (kunst)context.
+  <p>De academie deelt de volledig gerenoveerde site met de Sint-Lukas Basisschool en de Sint-Lukas Kunsthumaniora en bevindt zich naast de Hogeschool LUCA School of Arts. De school fungeert als ontmoetingsplaats tussen verschillende leeftijden, culturen, disciplines en artistieke processen binnen de lokale en internationale (kunst)context.
   </p>
 about__images:
   - '/assets/fotos Tom Janssens/sintlukas_tomjanssens_01_1.jpg'
