@@ -49,11 +49,11 @@ grid_items:
     column-end: 15
     image: /assets/grid/web-20-21_sint-lukas-1624451630.png
 about__text: |
-  <p>De Sint-Lukasacademie is een instelling van het deeltijds kunstonderwijs (DKO). We richten ons op kinderen (6 tot 12 jaar), jongeren (12 tot 18 jaar) en volwassenen (18+) die in hun vrije tijd de mogelijkheden van de beeldende kunsten willen verkennen. Wij bieden u, geheel naar onze unieke pedagogie, een kwalitatief onderwijs op maat in zowel creatieve als kunstbeschouwelijke opleidingen.
+  <p>De Sint-Lukasacademie is een instelling van het deeltijds kunstonderwijs (DKO). We richten ons op kinderen (6 tot 12 jaar), jongeren (12 tot 18 jaar) en volwassenen (18+) die in hun vrije tijd de mogelijkheden van de beeldende kunsten willen verkennen. Wij bieden, geheel naar onze unieke pedagogie, kwalitatief onderwijs op maat in zowel artistieke als kunstbeschouwelijke opleidingen.
   </p>
-  <p>Na het beëindigen van een opleiding kan je onder toelatingsvoorwaarden nog twee jaar verder specialiseren in de gekozen optie. In deze kortlopende specialisatie staat het persoonlijk artistiek project centraal. <br>
+  <p>Na het beëindigen van een opleiding in de vierde graad kan je onder toelatingsvoorwaarden nog twee jaar verder specialiseren in de gekozen optie. In deze kortlopende specialisatie staat het persoonlijk artistiek project centraal. <br>
   </p>
-  <p>De academie deelt de volledig gerenoveerde site met de Basisschool Sint-Lukas en de Sint-Lukas Kunsthumaniora en ligt vlak naast de Hogeschool LUCA School of Arts. De school fungeert als ontmoetingsplaats tussen verschillende leeftijden, culturen, disciplines en artistieke processen binnen de lokale en internationale (kunst) context.
+  <p>De academie deelt de volledig gerenoveerde site met de Basisschool Sint-Lukas en de Sint-Lukas Kunsthumaniora en bevindt zich naast de Hogeschool LUCA School of Arts. De school fungeert als ontmoetingsplaats tussen verschillende leeftijden, culturen, disciplines en artistieke processen binnen de lokale en internationale (kunst)context.
   </p>
 about__images:
   - '/assets/fotos Tom Janssens/sintlukas_tomjanssens_01_1.jpg'
@@ -177,7 +177,6 @@ atelier:
       </p>
     collection: false
     downloads:
-      - downloads/20232024_kalenderdko_-1693234697.pdf
       - downloads/lessenrooster-23-24-1693234701.pdf
       - downloads/folder-jongeren-99x210-3luik-zigzag-20220908.pdf
   -
@@ -185,7 +184,6 @@ atelier:
     title: 'Atelier: Volwassenen'
     collection: true
     downloads:
-      - downloads/20232024_kalenderdko_-1693234925.pdf
       - downloads/lessenrooster-23-24-1693234929.pdf
 inschrijvingen__title: 'Inschrijvingen (tot 30 september)'
 inschrijvingen__text: |
