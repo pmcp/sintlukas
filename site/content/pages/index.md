@@ -181,7 +181,7 @@ atelier:
     title: 'Atelier: Volwassenen'
     collection: true
     downloads:
-      - downloads/lessenrooster-23-24-1693234929.pdf
+      - downloads/2024-2025_sintlukasacademie_lessenrooster(18-).pdf
 inschrijvingen__title: 'Inschrijvingen (tot 30 september)'
 inschrijvingen__text: |
   <p><strong><strong>Inschrijvingsgelden<br></strong></strong>
