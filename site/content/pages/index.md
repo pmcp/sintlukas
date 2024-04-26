@@ -168,14 +168,14 @@ atelier:
       voorbereiding voor een opleiding in de Kunsthumaniora en/of in het
       Hoger Kunstonderwijs.
       </p>
-      <p><strong>WANNEER?</strong> woe 13:05 - 16:40
+      <p><strong>WANNEER?</strong> woe 13:00 - 16:40
       </p>
       <p><strong>WAAR?</strong> Groenstraat 156<br>
       </p>
     collection: false
     downloads:
-      - downloads/lessenrooster-23-24-1693234701.pdf
       - downloads/folder-jongeren-99x210-3luik-zigzag-20220908.pdf
+      - downloads/2024-2025_sintlukasacademie_kalender.pdf
   -
     type: atelier
     title: 'Atelier: Volwassenen'
