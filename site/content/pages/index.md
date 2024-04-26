@@ -132,16 +132,14 @@ atelier:
       </p>
       <p>Voor kinderen vanaf 8 tot 11 jaar!
       </p>
-      <p><strong>WANNEER?</strong> ma 15.50 -17.30 / di 15.50 - 17.30
-       wo 13.30 - 15.20 / do 15:50 - 17:30
-      op verschillende locaties.
+      <p><strong>WANNEER?</strong> Na school op maandag, dinsdag, woensdag of donderdag op verschillende locaties.
       </p>
       <p>Meer info in verband met de planning en de locatie? info.academie@sintlukas.brussels of 02/217 77 00<span class="redactor-invisible-space"></span><br>
       </p>
     downloads:
-      - downloads/lessenrooster-23-24-1693234481.pdf
-      - downloads/20232024_kalenderdko.pdf
       - downloads/afspraken_eerste_graad_boekje_web.pdf
+      - downloads/2024-2025_sintlukasacademie_kalender.pdf
+      - downloads/2024-2025_sintlukasacademie_lessenrooster(6-18jaar).pdf
     collection: false
   -
     type: atelier
