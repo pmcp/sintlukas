@@ -428,7 +428,7 @@ locations:
       <p style="margin-bottom: 0;">
       	Welkom op het secretariaat:
       </p>
-      <ul>
+      <ul style="margin-top: 0; padding-left: 2rem;">
       	<li>
       	<strong>maandag, dinsdag en donderdag</strong><br>
       	van 08:40 tot 21:00
