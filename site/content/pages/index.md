@@ -217,7 +217,7 @@ inschrijvingen__text: |
   <p>
   	De lessen starten op 1 september en het schooljaar loopt tot 30 juni. Hier vind je de <a href="downloads/2024-2025_sintlukasacademie_kalender.pdf" download="">volledige kalender voor het schooljaar 2024 - 2025</a> terug.
   </p>
-  <p>
+  <p id="fr" style="padding-bottom: 3rem;">
   	——
   </p>
   <p>
@@ -244,7 +244,7 @@ inschrijvingen__text: |
   <p>
   	Vous pouvez vous désinscrire à l'accueil avant le 30 septembre et vous recevrez alors vos frais d'inscription diminués des frais de dossier (5 euros). Vous pouvez vous désinscrire après le 30 septembre, mais nous ne pourrons plus rembourser les frais d'inscription.
   </p>
-  <p>
+  <p id="en" style="padding-bottom: 3rem;">
   	——
   </p>
   <p>
