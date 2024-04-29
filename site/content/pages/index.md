@@ -185,7 +185,7 @@ atelier:
 inschrijvingen__title: 'Inschrijvingen (tot 30 september)'
 inschrijvingen__text: |
   <p>
-  	Inschrijven kan online via <a href="https://www.mijnacademie.be/sintlukasschaarbeek">mijnacademie.be/sintlukasschaarbeek</a> vanaf 24 mei om 09u. De herinschrijving voor huidige studenten begint op 1 mei. Inschrijven kan tot 30 september.
+  	Inschrijven kan online via <a href="https://www.mijnacademie.be/sintlukasschaarbeek">mijnacademie.be/sintlukasschaarbeek</a> vanaf 24 mei om 9u. De herinschrijving voor huidige studenten begint op 1 mei. Inschrijven kan tot 30 september.
   </p>
   <p>
   	We helpen je graag verder zowel telefonisch of op het onthaal (02 217 77 00 maandag-, dinsdag- en donderdagavond van 17:00 - 20:30) tot en met 30 juni en vanaf 23 augustus, of per mail (<a href="mailto:info.academie@sintlukas.brussels">info.academie@sintlukas.brussels</a>). De Academie ligt op wandelafstand van het Brussel Noord station en is bereikbaar via tramlijnen T3, T4, T55, T25 , T94, M Rogier, M Kruidtuin.
@@ -194,7 +194,7 @@ inschrijvingen__text: |
   	Via deze link bekijk je het lessenrooster voor volgend schooljaar. MijnAcademie maakt op basis van jouw inschrijving van dit jaar een logisch vervolg. Wil je echter veranderen van richting/optie? Dan moet je ons een mailtje sturen of langskomen op het onthaal.
   </p>
   <p>
-  	Inschrijvingsgelden<br>
+  	<strong>Inschrijvingsgelden</strong><br>
   	6-17 jaar: 100 euro (*recht op vermindering of tweede kind: 65 euro)<br>
   	18-24 jaar: 200 euro<br>
   	25+: 420 euro (*recht op vermindering: 200 euro)
@@ -212,7 +212,7 @@ inschrijvingen__text: |
   	Je kan je voor 30 september op het onthaal uitschrijven en dan krijg je jouw inschrijvingsgeld terug min administratieve kost (5 euro). Na 30 september kan je je uitschrijven, maar dan kunnen wij het inschrijvingsgeld niet meer terugstorten.
   </p>
   <p>
-  	De lessen starten op 1 september en het schooljaar loopt tot 30 juni. Hier vind je de volledige kalender voor het schooljaar 2024 - 2025 terug.
+  	De lessen starten op 1 september en het schooljaar loopt tot 30 juni. Hier vind je de <a href="downloads/2024-2025_sintlukasacademie_kalender.pdf" download="" >volledige kalender voor het schooljaar 2024 - 2025</a> terug.
   </p>
   <p>
   	——
