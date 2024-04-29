@@ -184,8 +184,8 @@ atelier:
       - downloads/2024-2025_sintlukasacademie_lessenrooster(18-).pdf
 inschrijvingen__title: 'Inschrijvingen (tot 30 september)'
 inschrijvingen__text: |
-  <p style="padding-bottom: 2rem;">
-  	<span style="padding: 1rem;">NL</span> | <a href="#fr" style="padding: 1rem;" rel="padding: 1rem;">FR</a> | <a href="#en" style="padding: 1rem;">EN</a>
+  <p style="padding-bottom: 2rem; letter-spacing: 1px;">
+  	<span style="padding: 1rem;">NL</span> | <a href="#fr" style="padding: 1rem; text-decoration: none; font-weight: bold;" rel="padding: 1rem;">FR</a> | <a href="#en" style="padding: 1rem; text-decoration: none; font-weight: bold;" rel="padding: 1rem; text-decoration: none; font-weight: bold;">EN</a>
   </p>
   <p>
   	Inschrijven kan online via <a href="https://www.mijnacademie.be/sintlukasschaarbeek">mijnacademie.be/sintlukasschaarbeek</a> vanaf 24 mei om 9u. De herinschrijving voor huidige studenten begint op 1 mei. Inschrijven kan tot 30 september.
