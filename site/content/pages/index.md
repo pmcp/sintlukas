@@ -184,7 +184,7 @@ atelier:
       - downloads/2024-2025_sintlukasacademie_lessenrooster(18-).pdf
 inschrijvingen__title: 'Inschrijvingen (tot 30 september)'
 inschrijvingen__text: |
-  <p>
+  <p style="padding-bottom: 2rem;">
   	<span style="padding: 1rem;">NL</span> | <a href="#fr" style="padding: 1rem;" rel="padding: 1rem;">FR</a> | <a href="#en" style="padding: 1rem;">EN</a>
   </p>
   <p>
@@ -268,7 +268,7 @@ inschrijvingen__text: |
   <p>
   	Your registration is confirmed when we have received the registration and payment before September 25. Please note: when a studio is full, the date of payment counts for the order of registration! So don't wait too long to register or ask for help with registering.
   </p>
-  <p>
+  <p style="padding-bottom: 2rem;">
   	You can unregister at reception before September 30 and you will receive your registration fee minus administrative costs (5 euros). You can unregister after September 30, but we will no longer be able to refund the registration fee.
   </p>
 inschrijvingen__image: /assets/patroon_algemeen.png
