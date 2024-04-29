@@ -139,7 +139,7 @@ atelier:
     downloads:
       - downloads/afspraken_eerste_graad_boekje_web.pdf
       - downloads/2024-2025_sintlukasacademie_kalender.pdf
-      - downloads/2024-2025_sintlukasacademie_lessenrooster(6-18jaar).pdf
+      - downloads/sla-lessenrooster-(6-18-jaar)-23-24.pdf
     collection: false
   -
     type: atelier
@@ -176,12 +176,13 @@ atelier:
     downloads:
       - downloads/folder-jongeren-99x210-3luik-zigzag-20220908.pdf
       - downloads/2024-2025_sintlukasacademie_kalender.pdf
+      - downloads/sla-lessenrooster-(6-18-jaar)-23-24.pdf
   -
     type: atelier
     title: 'Atelier: Volwassenen'
     collection: true
     downloads:
-      - downloads/2024-2025_sintlukasacademie_lessenrooster(18-).pdf
+      - downloads/sla-lessenrooster-(18-)-23-24.pdf
 inschrijvingen__title: 'Inschrijvingen (tot 30 september)'
 inschrijvingen__text: |
   <p style="padding-bottom: 2rem; letter-spacing: 1px;">
