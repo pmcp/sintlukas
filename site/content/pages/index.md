@@ -278,8 +278,8 @@ inschrijvingen__downloads:
   - downloads/lijstvermindering.pdf
   - downloads/folder-jongeren-99x210-3luik-zigzag-20220908.pdf
   - downloads/2024-2025_sintlukasacademie_kalender.pdf
-  - downloads/2024-2025_sintlukasacademie_lessenrooster(18-).pdf
-  - downloads/2024-2025_sintlukasacademie_lessenrooster(6-18jaar).pdf
+  - downloads/sla-lessenrooster-(18-)-23-24.pdf
+  - downloads/sla-lessenrooster-(6-18-jaar)-23-24.pdf
 locations:
   -
     type: location
