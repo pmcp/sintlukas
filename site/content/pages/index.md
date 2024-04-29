@@ -227,9 +227,10 @@ inschrijvingen__image: /assets/patroon_algemeen.png
 inschrijvingen__downloads:
   - downloads/afspraken_eerste_graad_boekje_web.pdf
   - downloads/lijstvermindering.pdf
-  - downloads/lessenrooster23-24.pdf
   - downloads/folder-jongeren-99x210-3luik-zigzag-20220908.pdf
-  - downloads/20232024_kalenderdko.pdf
+  - downloads/2024-2025_sintlukasacademie_kalender.pdf
+  - downloads/2024-2025_sintlukasacademie_lessenrooster(18-).pdf
+  - downloads/2024-2025_sintlukasacademie_lessenrooster(6-18jaar).pdf
 locations:
   -
     type: location
