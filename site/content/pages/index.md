@@ -425,14 +425,18 @@ locations:
       	Directie:<br>
       	<a href="mailto:academie@sintlukas.brussels" title="">academie@sintlukas.brussels</a>
       </p>
-      <p>
+      <p style="margin-bottom: 0;">
       	Welkom op het secretariaat:
       </p>
       <ul>
-      	<li>maandag, dinsdag en donderdag<br>
-      	van 08:40 tot 21:00</li>
-      	<li>woensdag en vrijdag<br>
-      	van 08:40 tot 17:00 uur.</li>
+      	<li>
+      	<strong>maandag, dinsdag en donderdag</strong><br>
+      	van 08:40 tot 21:00
+      	</li>
+      	<li>
+      	<strong>woensdag en vrijdag</strong><br>
+      	van 08:40 tot 17:00 uur
+      	</li>
       </ul>
       <p>
       	De Academie ligt op wandelafstand van het Brussel Noord station en is bereikbaar via tramlijnen T3, T4, T55, T25 , T94, M Rogier, M Kruidtuin.
