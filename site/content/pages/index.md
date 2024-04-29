@@ -806,7 +806,7 @@ locations:
   -
     type: location
     text: |
-      <p><strong>Aximax</strong><br>J.W. Wilsonstraat 19<br>1000 Brussel<br>
+      <p><strong>Aximax</strong> (filiaal)<strong></strong><br>J.W. Wilsonstraat 19<br>1000 Brussel<br>
       </p>
     map:
       zoom: '14'
@@ -1538,7 +1538,7 @@ locations:
   -
     type: location
     text: |
-      <p><strong>Gemeentelijke Basisschool - De Kriek<br></strong>Grote Bosstraat 70<br>1030 Schaarbeek
+      <p><strong>Gemeentelijke Basisschool - De Kriek</strong> (filiaal)<strong><br></strong>Grote Bosstraat 70<br>1030 Schaarbeek
       </p>
     map:
       zoom: '14'
