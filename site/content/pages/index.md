@@ -65,10 +65,10 @@ about__images:
   - '/assets/fotos Tom Janssens/sintlukas_tomjanssens_25_1.jpg'
 downloads:
   - downloads/2024-2025_sintlukasacademie_academiereglement.pdf
-  - downloads/2024-2025_sintlukasacademie_lessenrooster(6-18jaar).pdf
-  - downloads/2024-2025_sintlukasacademie_lessenrooster(18-).pdf
   - downloads/2024-2025_sintlukasacademie_kalender.pdf
   - downloads/2024-2025_sintlukasacademie_artistiekpedagogischproject.pdf
+  - downloads/sla-lessenrooster-(18-)-23-24.pdf
+  - downloads/sla-lessenrooster-(6-18-jaar)-23-24.pdf
 atelier:
   -
     type: atelier
