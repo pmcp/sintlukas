@@ -413,13 +413,23 @@ locations:
       mapboxStyles: ''
       mapType: google
     text: |
-      <p><strong>Sint-Lukas Academie - Deeltijds Kunstonderwijs (Hoofdschool)</strong><br>Groenstraat 156<br>1030 Brussel (Schaarbeek)
+      <p>
+      	<strong>Sint-Lukas Academie - Deeltijds Kunstonderwijs (Hoofdschool)</strong><br>Groenstraat 156<br>1030 Brussel (Schaarbeek)
       </p>
-      <p>info : <a href="mailto:info.academie@sintlukas.brussels" title="">info.academie@sintlukas.brussels</a><br>directie : <a href="mailto:academie@sintlukas.brussels" title="">academie@sintlukas.brussels</a><br>tel: 022177700
+      <p>
+      	Aarzel niet om ons te contacteren via e-mail of telefoon:<br>
+      	info : <a href="mailto:info.academie@sintlukas.brussels" title="">info.academie@sintlukas.brussels</a><br>
+      	directie : <a href="mailto:academie@sintlukas.brussels" title="">academie@sintlukas.brussels</a><br>tel: 022177700
       </p>
-      <p>Aarzel niet om ons te contacteren via e-mail of telefoon. <br>Of kom gewoon eens langs op het secretariaat (maandag, dinsdag en donderdag van <br>08:40 - 21:00 en woensdag en vrijdag van 08:40 - 17:00 uur).
+      <p>
+      	Welkom op het secretariaat:
       </p>
-      <p>De Academie ligt op wandelafstand van het Brussel Noord station en is bereikbaar via tramlijnen T3, T4, T55, T25 , T94, M Rogier, M Kruidtuin. <br>
+      <ul>
+      	<li>maandag, dinsdag en donderdag van 08:40 tot 21:00</li>
+      	<li>en woensdag en vrijdag van 08:40 tot 17:00 uur.</li>
+      </ul>
+      <p>
+      	De Academie ligt op wandelafstand van het Brussel Noord station en is bereikbaar via tramlijnen T3, T4, T55, T25 , T94, M Rogier, M Kruidtuin.
       </p>
   -
     type: location
