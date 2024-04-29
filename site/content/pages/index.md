@@ -263,7 +263,10 @@ inschrijvingen__text: |
   	You can pay online immediately upon registration via various payment options.<br>As a parent, you can request the tax certificate for your child's registration via the platform. This can be done at the start of the next school year. This is how you receive your tax benefit for the children's studios.
   </p>
   <p>
-  	Your registration is confirmed when we have received the registration and payment before September 25. Please note: when a studio is full, the date of payment counts for the order of registration! So don't wait too long to register or ask for help with registering.<br><br>You can unregister at reception before September 30 and you will receive your registration fee minus administrative costs (5 euros). You can unregister after September 30, but we will no longer be able to refund the registration fee.
+  	Your registration is confirmed when we have received the registration and payment before September 25. Please note: when a studio is full, the date of payment counts for the order of registration! So don't wait too long to register or ask for help with registering.
+  </p>
+  <p>
+  	You can unregister at reception before September 30 and you will receive your registration fee minus administrative costs (5 euros). You can unregister after September 30, but we will no longer be able to refund the registration fee.
   </p>
 inschrijvingen__image: /assets/patroon_algemeen.png
 inschrijvingen__downloads:
