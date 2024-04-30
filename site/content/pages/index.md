@@ -184,7 +184,7 @@ atelier:
 inschrijvingen__title: 'Inschrijvingen (tot 30 september)'
 inschrijvingen__text: |
   <p style="padding-bottom: 2rem; letter-spacing: 1px;">
-  	<span style="padding: 1rem;">NL</span> | <a href="#fr" rel="padding: 1rem;">FR</a> | <a href="#en" rel="padding: 1rem; text-decoration: none; font-weight: bold;">EN</a>
+  	<span style="padding: 1rem;">NL</span> | <a href="#fr" style="padding: 1rem; text-decoration: none;">FR</a> | <a href="#en" style="padding: 1rem; text-decoration: none;" rel="padding: 1rem; text-decoration: none;">EN</a>
   </p>
   <p>
   	Inschrijven kan online via <a href="https://www.mijnacademie.be/sintlukasschaarbeek" target="_blank">www.mijnacademie.be/sintlukasschaarbeek</a> vanaf 24 mei om 9u. De herinschrijving voor huidige studenten begint op 1 mei. Inschrijven kan tot 30 september.
