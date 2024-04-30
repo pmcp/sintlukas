@@ -184,7 +184,7 @@ atelier:
 inschrijvingen__title: 'Inschrijvingen (tot 30 september)'
 inschrijvingen__text: |
   <p style="padding-bottom: 2rem; letter-spacing: 1px;">
-  	<span style="padding: 1rem;">NL</span> | <a href="#fr" style="padding: 1rem; text-decoration: none; font-weight: bold;" rel="padding: 1rem;">FR</a> | <a href="#en" style="padding: 1rem; text-decoration: none; font-weight: bold;" rel="padding: 1rem; text-decoration: none; font-weight: bold;">EN</a>
+  	<span style="padding: 1rem;">NL</span> | <a href="#fr" rel="padding: 1rem;">FR</a> | <a href="#en" rel="padding: 1rem; text-decoration: none; font-weight: bold;">EN</a>
   </p>
   <p>
   	Inschrijven kan online via <a href="https://www.mijnacademie.be/sintlukasschaarbeek">mijnacademie.be/sintlukasschaarbeek</a> vanaf 24 mei om 9u. De herinschrijving voor huidige studenten begint op 1 mei. Inschrijven kan tot 30 september.
@@ -193,7 +193,9 @@ inschrijvingen__text: |
   	We helpen je graag verder zowel telefonisch of op het onthaal (02 217 77 00 maandag-, dinsdag- en donderdagavond van 17:00 - 20:30) tot en met 30 juni en vanaf 23 augustus, of per mail (<a href="mailto:info.academie@sintlukas.brussels">info.academie@sintlukas.brussels</a>). De Academie ligt op wandelafstand van het Brussel Noord station en is bereikbaar via tramlijnen T3, T4, T55, T25 , T94, M Rogier, M Kruidtuin.
   </p>
   <p>
-  	Via deze link bekijk je het lessenrooster voor volgend schooljaar. MijnAcademie maakt op basis van jouw inschrijving van dit jaar een logisch vervolg. Wil je echter veranderen van richting/optie? Dan moet je ons een mailtje sturen of langskomen op het onthaal.
+  	Via deze link bekijk je het lessenrooster voor volgend schooljaar. <a href="https://www.mijnacademie.be/sintlukasschaarbeek" title="">MijnAcademie</a> maakt op basis van jouw inschrijving van dit jaar een logisch vervolg. Wil je echter veranderen van richting/optie? Dan moet je ons een mailtje sturen of langskomen op het onthaal.
+  </p>
+  <p>De lessen starten op 1 september en het schooljaar loopt tot 30 juni. Hier vind je de <a href="downloads/2024-2025_sintlukasacademie_kalender.pdf" download="">volledige kalender voor het schooljaar 2024 - 2025</a> terug.<br>
   </p>
   <p>
   	<strong>Inschrijvingsgelden</strong><br>
@@ -213,11 +215,7 @@ inschrijvingen__text: |
   <p>
   	Je kan je voor 30 september op het onthaal uitschrijven en dan krijg je jouw inschrijvingsgeld terug min administratieve kost (5 euro). Na 30 september kan je je uitschrijven, maar dan kunnen wij het inschrijvingsgeld niet meer terugstorten.
   </p>
-  <p>
-  	De lessen starten op 1 september en het schooljaar loopt tot 30 juni. Hier vind je de <a href="downloads/2024-2025_sintlukasacademie_kalender.pdf" download="">volledige kalender voor het schooljaar 2024 - 2025</a> terug.
-  </p>
-  <p id="fr" style="padding: 2rem 0 4rem;">
-  	——
+  <p>——
   </p>
   <p>
   	<strong>Inscription</strong>
@@ -229,7 +227,7 @@ inschrijvingen__text: |
   	Nous serons heureux de vous aider par téléphone ou à la réception (02 217 77 00 les lundis, mardis et jeudis soirs de 17h00 à 20h30) jusqu'au 30 juin et à partir du 23 août, ou par email (<a href="mailto:info.academie@sintlukas.brussels" title="">info.academie@sintlukas.brussels</a>). L'Académie se trouve à quelques pas de la gare de Bruxelles Nord et est accessible via les lignes de tramway T3, T4, T55, T25, T94, M Rogier, M Kruidtuin.
   </p>
   <p>
-  	Vous pouvez consulter le planning des cours pour la prochaine année scolaire via ce lien. <a href="https://www.mijnacademie.be/sintlukasschaarbeek" title="">MijnAcademie</a> fera une suite logique en fonction de votre inscription cette année. Cependant, souhaitez-vous changer de direction/d’option envoyer nous un e-mail ou vous rendez vous à la réception.<br>Les cours commencent le 1er septembre et l'année scolaire se termine le 30 juin. Vous trouverez ici le calendrier complet de l'année scolaire 2024 - 2025.
+  	Vous pouvez consulter le planning des cours pour la prochaine année scolaire via ce lien. <a href="https://www.mijnacademie.be/sintlukasschaarbeek" title="">MijnAcademie</a> fera une suite logique en fonction de votre inscription cette année. Cependant, souhaitez-vous changer de direction/d’option envoyer nous un e-mail ou vous rendez vous à la réception.<br><br>Les cours commencent le 1er septembre et l'année scolaire se termine le 30 juin. Vous trouverez ici le calendrier complet de l'année scolaire 2024 - 2025.<br>
   </p>
   <p>
   	<strong>Frais d'inscription</strong><br>
