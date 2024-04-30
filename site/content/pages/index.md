@@ -168,7 +168,7 @@ atelier:
       </p>
       <p><strong>WANNEER?</strong> woe 13:00 - 16:40
       </p>
-      <p><strong>WAAR?</strong> Groenstraat 156<br>
+      <p><strong>WAAR?</strong> Groenstraat 156, 1030 Schaarbeek<br>
       </p>
     collection: false
     downloads:
