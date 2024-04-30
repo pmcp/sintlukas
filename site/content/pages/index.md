@@ -128,7 +128,7 @@ atelier:
       Je wordt geprikkeld om te doen, te experimenteren en prikkels al
       spelend om te zetten in sprekende beelden!
       </p>
-      <p><strong>NIEUW sinds 2023!</strong> Audiovisueel atelier! Hou je van fotografie, film, animatie, stopmotion en soundscapes? Dan krijg je in dit atelier naast tekenen, boetseren en schilderen ook audiovisuele technieken aangeboden!
+      <p><strong>NIEUW sinds 2023: </strong>Audiovisueel atelier! Hou je van fotografie, film, animatie, stopmotion en soundscapes? Dan krijg je in dit atelier naast tekenen, boetseren en schilderen ook audiovisuele technieken aangeboden!
       </p>
       <p>Voor kinderen vanaf 8 tot 11 jaar!
       </p>
