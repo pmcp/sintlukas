@@ -65,10 +65,10 @@ about__images:
   - '/assets/fotos Tom Janssens/sintlukas_tomjanssens_25_1.jpg'
 downloads:
   - downloads/2024-2025_sintlukasacademie_academiereglement.pdf
-  - downloads/2024-2025_sintlukasacademie_kalender.pdf
   - downloads/2024-2025_sintlukasacademie_artistiekpedagogischproject.pdf
   - downloads/lessenrooster-(6-18-jaar)-24-25.pdf
   - downloads/lessenrooster-(18-)-24-25.pdf
+  - downloads/f2024-2025_sintlukasacademie_kalender.pdf
 atelier:
   -
     type: atelier
@@ -136,8 +136,8 @@ atelier:
       </p>
     downloads:
       - downloads/afspraken_eerste_graad_boekje_web.pdf
-      - downloads/2024-2025_sintlukasacademie_kalender.pdf
       - downloads/lessenrooster-(6-18-jaar)-24-25.pdf
+      - downloads/f2024-2025_sintlukasacademie_kalender.pdf
     collection: false
   -
     type: atelier
@@ -173,8 +173,8 @@ atelier:
     collection: false
     downloads:
       - downloads/folder-jongeren-99x210-3luik-zigzag-20220908.pdf
-      - downloads/2024-2025_sintlukasacademie_kalender.pdf
       - downloads/lessenrooster-(6-18-jaar)-24-25.pdf
+      - downloads/f2024-2025_sintlukasacademie_kalender.pdf
   -
     type: atelier
     title: 'Atelier: Volwassenen'
@@ -278,9 +278,9 @@ inschrijvingen__downloads:
   - downloads/afspraken_eerste_graad_boekje_web.pdf
   - downloads/lijstvermindering.pdf
   - downloads/folder-jongeren-99x210-3luik-zigzag-20220908.pdf
-  - downloads/2024-2025_sintlukasacademie_kalender.pdf
   - downloads/lessenrooster-(6-18-jaar)-24-25.pdf
   - downloads/lessenrooster-(18-)-24-25.pdf
+  - downloads/f2024-2025_sintlukasacademie_kalender.pdf
 locations:
   -
     type: location
