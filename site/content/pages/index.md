@@ -136,8 +136,8 @@ atelier:
       </p>
     downloads:
       - downloads/afspraken_eerste_graad_boekje_web.pdf
-      - downloads/lessenrooster-(6-18-jaar)-24-25.pdf
       - downloads/f2024-2025_sintlukasacademie_kalender.pdf
+      - downloads/lessenrooster-(6-18-jaar)-24-25-1725383739.pdf
     collection: false
   -
     type: atelier
