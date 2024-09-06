@@ -66,8 +66,8 @@ about__images:
 downloads:
   - downloads/2024-2025_sintlukasacademie_academiereglement.pdf
   - downloads/2024-2025_sintlukasacademie_artistiekpedagogischproject.pdf
-  - downloads/lessenrooster-(18-)-24-25.pdf
   - downloads/lessenrooster-6-18-jaar-24-25.pdf
+  - downloads/lessenrooster-(18-)-24-25.pdf
   - downloads/f2024-2025_sintlukasacademie_kalender.pdf
 atelier:
   -
